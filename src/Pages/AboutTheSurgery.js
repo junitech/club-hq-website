@@ -12,7 +12,10 @@ function AboutTheSurgery() {
             <h2>What is a hindquarter amputation?</h2>
             <p>In it’s real sense, a hindquarter amputation is any amputation which involves the hind (rear in an animal, lower in a human) quarter of the body and thus it involves an amputation that involves part or all of one side of the pelvis. That is why it is sometimes known as a hemipelvectomy (literally cutting of half of the pelvis). The diagram below shows what a complete (ie all of the hemipelvis) operation would like based on the bones of the pelvis.</p>
 
-            Fig 1. Classic hindquarter amputation
+            <figure>
+                <img src="/images/classic-hindquarter-amputation.jpg" alt="Classic hindquarter amputation"></img>
+                <figcaption>Fig 1. Classic hindquarter amputation</figcaption>
+            </figure>
 
             <h2>Why is it required?</h2>
             <p>The most common reason for a hindquarter amputation is for tumours and these will mostly be bone or soft tissue sarcomas.  The tumour may have arisen in the bones of the pelvis (Most commonly chondrosarcoma, sometimes osteosarcoma) or may have grown in to the pelvic bones from the top of the femur (the hip joint). The surgeon’s most important task when removing a tumour of the pelvis is to ensure that he/she obtains clear margins around the tumour (ie does not leave any tumour cells behind). A hindquarter amputation is thus most likely required when the tumour is quite extensive and removing it all would not only involve removal of the bones of the pelvis but also removal of one or more of the main nerves supplying the leg and/or the main blood vessels supplying the leg. In other words, it is needed firstly to try and maximise the control of the tumour (and give the best chance of cure) and secondly if removal of the tumour would leave a useless leg.</p>
