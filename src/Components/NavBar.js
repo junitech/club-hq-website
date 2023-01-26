@@ -3,7 +3,7 @@ import './NavBar.css';
 function NavBar() {
     return (
         <>
-            <nav className="flex-list">
+            <nav className="navbar">
                 <ul>
                     <li><a href="/">Home</a></li>
 

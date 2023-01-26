@@ -24,7 +24,10 @@ function AboutTheSurgery() {
 
             <p>Since the 1980s surgeons have developed numerous operations to reconstruct the pelvis following removal of tumours. Some of these have been very successful, especially if only part of the pelvis needs removing. It is possible to do what is called an internal hemipelvectomy where all or part of the pelvis is literally ‘filleted’ out of the body and removed, leaving the leg in place. The xray below shows that the upper 2/3 of the pelvis has been removed along with the hip joint and the top of the femur is left ‘hanging’ in space. In fact it is surrounded by muscles, but the lack of the pelvis does mean that there is shortening and reduced function of the leg.</p>
 
-            Fig 2. An internal hemipelvectomy
+            <figure>
+                <img src="/images/internal-hemipelvectomy.jpg" alt="Classic hindquarter amputation"></img>
+                <figcaption>Fig 2. An internal hemipelvectomy</figcaption>
+            </figure>
 
             <p>It is possible to reconstruct the defect following operations of this sort and a lot of options are now available.  However there is a high complication rate.  Your surgeon will undoubtedly have considered all these options before advising you to undergo hindquarter amputation and the most likely reason for you needing this operation is the necessity to completely remove the tumour and ensuring none is left behind.</p>
 
@@ -34,14 +37,25 @@ function AboutTheSurgery() {
             <p>In some cases it will be possible to keep part of the pelvis – usually either the top bit (the ilium) or the ischium and pubis.  The ilium is the bit that you tighten your belt around with a pair of trousers. If this has to go then you may find (men in particular) that it is difficult to wear a belt and keep your trousers up! You may need to invest in a pair of braces.</p>
             <p>The ischium is the bit of bone that we sit on (the bony bit under your bottom). If that goes then you will feel a bit ‘lopsided’ when you sit. You may well need an extra cushion when sitting on a flat surface.</p>
 
-            Fig 3. Bones of the pelvis
+            <figure>
+                <img src="/images/bones-of-the-pelvis.jpg" alt="Classic hindquarter amputation"></img>
+                <figcaption>Fig 3. Bones of the pelvis</figcaption>
+            </figure>
 
             <p>There are however a couple of other structures which are likely to be removed with a hindquarter amputation which are of some importance.  The pudendal nerve  is a nerve which controls bladder, bowel and sexual function and it arises from the nerves of the sacrum (S2,3,4) and winds round each side of the pelvis before reaching its end points – the sphincters which control your bowel (the anus) and bladder as well as erectile function (in men) and the clitoris (in women). Luckily there are two of these nerves (one each side) and most of the above functions will still be OK with just one nerve – they may not be quite as effective though. There are also a number of muscles attached to the inner side wall of the pelvis which will lose their origin following the amputation and these include the levator ani (the muscle that controls the pelvic floor) and the base of the penis (in men). The result is that erectile dysfunction is quite common in males following hindquarter amputation, especially if they are aged over 40 and initially there may be some problems with either urinary or bowel incontinence, although this usually improves rapidly.</p>
 
             <h2>How will the surgeon put me back together?</h2>
             <p>There are many ways of reconstructing the stump following a hindquarter amputation. It will depend very much on where the tumour is and what muscles in the amputated leg can be saved. The most common way is to use the buttock muscles (if the blood supply to them is intact) and to literally swing them round to join to the tummy muscles (a posterior flap). This is the easiest flap to use and has the advantage that the sensation in the flap is usually preserved and is more of less in the right place.</p>
 
-            Fig 4a  Posterior flap hindquarter amputation appearance, 4b Anterior flap hindquater (seen from the back)
+            <figure>
+                <img src="/images/posterior-flap-hindquarter-amputation-appearance.jpg" alt="Classic hindquarter amputation"></img>
+                <figcaption>Fig 4a. Posterior flap hindquarter amputation appearance</figcaption>
+            </figure>
+
+            <figure>
+                <img src="/images/anterior-flap-hindquarter-seen-from-back.jpg" alt="Classic hindquarter amputation"></img>
+                <figcaption>Fig 4b. Anterior flap hindquarter (seen from the back)</figcaption>
+            </figure>
 
             <p>A second option, if the buttock muscles cannot be used, is to use the thigh muscles as an anterior flap and to preserve them when doing the amputation and then swing them round to replace the buttock.  This works very well but can sometimes result in the strange sensation that when sitting down you feel that you are sitting on the front of the thigh!</p>
             <p>If neither of these are suitable the surgeon may sometimes use what is known as a fillet flap when they take  some muscle and skin from the amputated leg and repair it into the ‘hole’ left by the amputation as a free flap. This will have no sensation but will have a blood supply as the blood vessels to the flap are joined to remaining blood vessels inside the body.</p>
