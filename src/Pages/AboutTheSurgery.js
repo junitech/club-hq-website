@@ -4,6 +4,7 @@ function AboutTheSurgery() {
     return (
         <>
             <NavBar />
+            <div className="container-lg">
 
             <h1>About the surgery</h1>
 
@@ -13,7 +14,7 @@ function AboutTheSurgery() {
             <p>In it’s real sense, a hindquarter amputation is any amputation which involves the hind (rear in an animal, lower in a human) quarter of the body and thus it involves an amputation that involves part or all of one side of the pelvis. That is why it is sometimes known as a hemipelvectomy (literally cutting of half of the pelvis). The diagram below shows what a complete (ie all of the hemipelvis) operation would like based on the bones of the pelvis.</p>
 
             <figure>
-                <img src="/images/classic-hindquarter-amputation.jpg" alt="Classic hindquarter amputation"></img>
+                <img src="/images/classic-hindquarter-amputation.jpg" className="center-image" alt="Classic hindquarter amputation"></img>
                 <figcaption>Fig 1. Classic hindquarter amputation</figcaption>
             </figure>
 
@@ -25,7 +26,7 @@ function AboutTheSurgery() {
             <p>Since the 1980s surgeons have developed numerous operations to reconstruct the pelvis following removal of tumours. Some of these have been very successful, especially if only part of the pelvis needs removing. It is possible to do what is called an internal hemipelvectomy where all or part of the pelvis is literally ‘filleted’ out of the body and removed, leaving the leg in place. The xray below shows that the upper 2/3 of the pelvis has been removed along with the hip joint and the top of the femur is left ‘hanging’ in space. In fact it is surrounded by muscles, but the lack of the pelvis does mean that there is shortening and reduced function of the leg.</p>
 
             <figure>
-                <img src="/images/internal-hemipelvectomy.jpg" alt="Classic hindquarter amputation"></img>
+                <img src="/images/internal-hemipelvectomy.jpg" className="center-image" alt="Classic hindquarter amputation"></img>
                 <figcaption>Fig 2. An internal hemipelvectomy</figcaption>
             </figure>
 
@@ -38,7 +39,7 @@ function AboutTheSurgery() {
             <p>The ischium is the bit of bone that we sit on (the bony bit under your bottom). If that goes then you will feel a bit ‘lopsided’ when you sit. You may well need an extra cushion when sitting on a flat surface.</p>
 
             <figure>
-                <img src="/images/bones-of-the-pelvis.jpg" alt="Classic hindquarter amputation"></img>
+                <img src="/images/bones-of-the-pelvis.jpg" className="center-image" alt="Classic hindquarter amputation"></img>
                 <figcaption>Fig 3. Bones of the pelvis</figcaption>
             </figure>
 
@@ -48,12 +49,12 @@ function AboutTheSurgery() {
             <p>There are many ways of reconstructing the stump following a hindquarter amputation. It will depend very much on where the tumour is and what muscles in the amputated leg can be saved. The most common way is to use the buttock muscles (if the blood supply to them is intact) and to literally swing them round to join to the tummy muscles (a posterior flap). This is the easiest flap to use and has the advantage that the sensation in the flap is usually preserved and is more of less in the right place.</p>
 
             <figure>
-                <img src="/images/posterior-flap-hindquarter-amputation-appearance.jpg" alt="Classic hindquarter amputation"></img>
+                <img src="/images/posterior-flap-hindquarter-amputation-appearance.jpg" className="center-image" alt="Classic hindquarter amputation"></img>
                 <figcaption>Fig 4a. Posterior flap hindquarter amputation appearance</figcaption>
             </figure>
 
             <figure>
-                <img src="/images/anterior-flap-hindquarter-seen-from-back.jpg" alt="Classic hindquarter amputation"></img>
+                <img src="/images/anterior-flap-hindquarter-seen-from-back.jpg" className="center-image" alt="Classic hindquarter amputation"></img>
                 <figcaption>Fig 4b. Anterior flap hindquarter (seen from the back)</figcaption>
             </figure>
 
@@ -67,6 +68,7 @@ function AboutTheSurgery() {
 
             <h2>What will it feel like following a hindquarter amputation?</h2>
             <p>Initially the brain will struggle to appreciate that a part of the body has gone and almost everyone will suffer with phantom sensations following the amputation. These may be painful but not always and people describe a feeling as though all or part of the limb is still there. There are many ways of treating this including medication and therapies such as mirror box treatment.</p>
+            </div>
         </>
     );
 }

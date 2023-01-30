@@ -4,7 +4,7 @@ function OurSupporters() {
     return (
         <>
             <NavBar />
-            
+            <div className="container-lg">
             <h1>Our supporters</h1>
 
             <h2>Nimbus and The Access Card</h2>
@@ -55,6 +55,7 @@ function OurSupporters() {
             </p>
  
             <img src="/images/sarcoma-uk-logo.jpg" width={300} alt="Sarcoma UK"></img>
+            </div>
         </>
     );
 }

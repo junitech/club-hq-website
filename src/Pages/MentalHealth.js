@@ -4,12 +4,12 @@ function MentalHealth() {
     return (
         <>
             <NavBar />
-            
+            <div className="container-lg">
             <h1>Mental Health</h1>
 
             <p>Author: Carol Hughes is a Macmillan Therapeutic Counsellor at the Royal Orthopaedic Hospital Birmingham.  Carol has many years of experience working with hindquarter amputees.</p>
 
-            <img src="/images/mental-health-john-lennon-quote.png" class="center-image" alt="" />
+            <img src="/images/mental-health-john-lennon-quote.png" className="center-image" alt="" />
 
             <p>If you've just had a hindquarter amputation, or been advised that you need one, you'll know that everything is not okay, far from it, but neither is it the end.  Though the double whammy of a cancer diagnosis, plus the need for radical life changing surgery, might be making you feel that way.   It is the time of maximum uncertainty and uncertainty is anxiety provoking. You're likely to know people that had or have cancer, but it's unlikely you'll know anyone that has had a hindquarter amputation. All kinds of questions and anxieties may loom large. Will you also need radiotherapy or chemotherapy? What will it mean in daily life? Will you be able to do the things that are important to you? What will you look like?  What about your relationships?  Your clinical team, who will be taking care of you for many years, will be able to answer many, but not all of your questions.  One member of the team will be assigned as your key worker.  They will be your first point of contact if you have any queries and you'll get to know each other especially well over the years to come.</p>
 
@@ -76,6 +76,7 @@ function MentalHealth() {
             <p>As you gradually rebuild your physical and emotional strength, your confidence will begin to return and you can begin to work towards Thriving.  This will mean something different to each individual. You may be pleasantly surprised at what you ultimately manage to achieve. I know many hindquarter patients doing things they had prematurely grieved as lost to them forever.  You may overhaul your life in quite unexpected but positive ways.  One day you may even find yourself reassuring a newly diagnosed person that a hindquarter amputation is not the end.</p>
 
             <img src="/images/mental-health-dandelion.png" class="center-image" alt="" />
+            </div>
         </>
     );
 }

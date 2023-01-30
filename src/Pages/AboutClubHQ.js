@@ -1,10 +1,12 @@
 import NavBar from '../Components/NavBar'
 
+
 function AboutClubHQ() {
     return (
         <>
             <NavBar />
-            
+            <div className="container-lg">
+           
             <h1>About Club HQ</h1>
 
             <p>In the United Kingdom, primary bone cancer affects around 550 people per year and circa 25 of those require a hindquarter amputation to remove a pelvic sarcoma.</p>
@@ -20,6 +22,7 @@ function AboutClubHQ() {
             <p>Club HQ members are pleased to mentor new amputees from their initial diagnosis through to their return home, and thereafter. If you wish to take advantage of our mentoring service please use the contact page.</p>
 
             <p>We welcome all contributions to our website.</p>
+            </div>
         </>
     );
 }

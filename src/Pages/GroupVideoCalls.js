@@ -4,8 +4,9 @@ function GroupVideoCalls() {
     return (
         <>
             <NavBar />
-            
+            <div className="container-lg">
             <h1>Group video calls</h1>
+            </div>
         </>
     );
 }

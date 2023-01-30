@@ -4,6 +4,7 @@ function OneMansJourney() {
     return (
         <>
             <NavBar />
+            <div className="container-lg">
 
             <h1>One man's journey</h1>
 
@@ -212,6 +213,7 @@ function OneMansJourney() {
             </ol>
 
             <p>...and good luck!</p>
+            </div>
         </>
     );
 }

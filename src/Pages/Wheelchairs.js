@@ -4,7 +4,7 @@ function Wheelchairs() {
     return (
         <>
             <NavBar />
-            
+            <div className="container-lg">
             <h1>Wheelchairs</h1>
 
             <p>Martin Austin MBE, Director and Founder of Nimbus Disability consultancy and captain of the Derby Wheelchair Blazers basketball team.</p>
@@ -43,6 +43,7 @@ function Wheelchairs() {
                 <li><a href="https://www.getcycling.org.uk/handcycles/">Get Cycling</a></li>
                 <li><a href="https://www.cyclonemobility.com/">Cyclone Mobility</a></li>
             </ul>
+            </div>
         </>
     );
 }
