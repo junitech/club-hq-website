@@ -45,8 +45,7 @@ function OurSupporters() {
 
             <p>Sarcoma UK is a national charity that funds vital research, offers support for anyone affected by sarcoma and campaigns for better treatments. It is the only cancer charity in the UK focusing on all types of sarcoma.</p>
             <p>https://sarcoma.org.uk/about-us</p>
- 
- 
+  
             <p>Contact details:
  
             Sarcoma UK Support Line:
