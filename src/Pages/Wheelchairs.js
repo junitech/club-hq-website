@@ -23,7 +23,7 @@ function Wheelchairs() {
 
             <p>For people that are regular chair users and can self mobilise there is a wide range of fashionable, light and comfortable wheelchairs from companies like RGK.</p>
 
-            <p>These aren’t cheap, but you may be able to access a wheelchair voucher scheme from your local wheelchair services to part fund the cost.</p>
+            <p>These aren't cheap, but you may be able to access a wheelchair voucher scheme from your local wheelchair services to part fund the cost.</p>
 
             <h2>Sports Chairs</h2>
 
