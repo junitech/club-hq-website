@@ -1,11 +1,7 @@
-import NavBar from '../Components/NavBar'
 
 function Prosthetics() {
     return (
         <>
-            <NavBar />
-            <div className="container-lg">
-
             <h1>The Prosthetic Care of Hip Disarticulation and Hemi-pelvectomy Amputees</h1>
 
             <h2>Socket and Prescription Choices</h2>
@@ -123,7 +119,6 @@ function Prosthetics() {
 
             <h3>Conclusion</h3>
             <p>Patients with hip disarticulation and hemi-pelvectomy levels of amputation are challenging to rehabilitate, both for the patients and the clinicians. However, excellent outcomes can be attained with careful consideration of socket styles and components and good physiotherapy input.</p>
-       </div> 
        </>
     );
 }

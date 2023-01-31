@@ -1,10 +1,7 @@
-import NavBar from '../Components/NavBar'
 
 function FAQs() {
     return (
         <>
-            <NavBar />
-            <div className="container-lg">
             <h1>Frequently Asked Questions</h1>
 
             <h2>How do I get into a bath?</h2>
@@ -28,7 +25,6 @@ function FAQs() {
 
             <h2>How do I get onto a train or an aeroplane?</h2>
             <p>Special assistance, which should be requested in advance if possible, should always be available. See the FAQ section on transport.</p>
-            </div>
         </>
     );
 }

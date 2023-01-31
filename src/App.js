@@ -26,7 +26,6 @@ import FAQsPage from './Pages/FAQs'
 import OurSupportersPage from './Pages/OurSupporters'
 import ContactUsPage from './Pages/ContactUs'
 
-
 function App() {
   return (
     <>

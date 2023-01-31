@@ -1,10 +1,7 @@
-import NavBar from '../Components/NavBar'
 
 function MentalHealth() {
     return (
         <>
-            <NavBar />
-            <div className="container-lg">
             <h1>Mental Health</h1>
 
             <p>Author: Carol Hughes is a Macmillan Therapeutic Counsellor at the Royal Orthopaedic Hospital Birmingham.  Carol has many years of experience working with hindquarter amputees.</p>
@@ -76,7 +73,6 @@ function MentalHealth() {
             <p>As you gradually rebuild your physical and emotional strength, your confidence will begin to return and you can begin to work towards Thriving.  This will mean something different to each individual. You may be pleasantly surprised at what you ultimately manage to achieve. I know many hindquarter patients doing things they had prematurely grieved as lost to them forever.  You may overhaul your life in quite unexpected but positive ways.  One day you may even find yourself reassuring a newly diagnosed person that a hindquarter amputation is not the end.</p>
 
             <img src="/images/mental-health-dandelion.png" class="center-image" alt="" />
-            </div>
         </>
     );
 }

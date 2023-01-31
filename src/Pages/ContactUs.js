@@ -1,10 +1,7 @@
-import NavBar from '../Components/NavBar'
 
 function ContactUs() {
     return (
         <>
-            <NavBar />
-            <div className="container-lg">
             <h1>Contact us</h1>
 
             <p>If you are an existing HQA and would like to join Club HQ...</p>
@@ -30,7 +27,6 @@ function ContactUs() {
 
                 <input type="submit" value="Send" />
             </form>
-            </div>            
         </>
     );
 }

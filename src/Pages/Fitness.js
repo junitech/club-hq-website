@@ -1,10 +1,7 @@
-import NavBar from '../Components/NavBar'
 
 function Fitness() {
     return (
         <>
-            <NavBar />
-            <div className="container-lg">
             <h1>Fitness</h1>
 
             <p>There is not a shadow of doubt that your life as an HQA will be of a better quality if you achieve a good level of fitness after your amputation. Your time pre-op is invariably very debilitating and fitness levels are usually very depleted.</p>
@@ -20,7 +17,6 @@ function Fitness() {
             <p>Recumbent cycles, hand cycles, wheelchair basketball, golf, skiing, sailing and swimming all improve your core and your ability to move around confidently and safely.</p>
 
             <p>Denise, a member of ClubHQ, runs a pilates and fitness group who exercise in a seated position. This is a very popular class and more details are available through the <a href="contact-us">contact</a> page.</p>
-            </div>
         </>
     );
 }

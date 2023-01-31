@@ -1,11 +1,7 @@
-import NavBar from '../Components/NavBar'
 
 function AboutTheSurgery() {
     return (
         <>
-            <NavBar />
-            <div className="container-lg">
-
             <h1>About the surgery</h1>
 
             Professor Rob Grimer MB, BS, DSc, FRCS(Eng), FRCS (Ed)(Orth) is the recently retired Professor of Orthopaedic Oncology at ROH Birmingham and is one of the world’s leading authorities on sarcoma. He is a founding Trustee of the Bone Cancer Research Trust and has helped pioneer a number of new surgical techniques.
@@ -68,7 +64,6 @@ function AboutTheSurgery() {
 
             <h2>What will it feel like following a hindquarter amputation?</h2>
             <p>Initially the brain will struggle to appreciate that a part of the body has gone and almost everyone will suffer with phantom sensations following the amputation. These may be painful but not always and people describe a feeling as though all or part of the limb is still there. There are many ways of treating this including medication and therapies such as mirror box treatment.</p>
-            </div>
         </>
     );
 }

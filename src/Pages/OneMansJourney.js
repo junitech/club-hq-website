@@ -1,11 +1,7 @@
-import NavBar from '../Components/NavBar'
 
 function OneMansJourney() {
     return (
         <>
-            <NavBar />
-            <div className="container-lg">
-
             <h1>One man's journey</h1>
 
             <p>I was asked to write about my experience because however much the doctors and nurses may tell you, they have never experienced a hindquarter amputation and there are lots of things that happen that don't appear in the handbooks.</p>
@@ -213,7 +209,6 @@ function OneMansJourney() {
             </ol>
 
             <p>...and good luck!</p>
-            </div>
         </>
     );
 }

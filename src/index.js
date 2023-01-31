@@ -8,12 +8,18 @@ import reportWebVitals from './reportWebVitals';
 import "bootstrap/dist/css/bootstrap.min.css";
 // Bootstrap Bundle JS
 import "bootstrap/dist/js/bootstrap.bundle.min";
+import NavBar from './Components/NavBar';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <BrowserRouter>
-      <App />
+      <NavBar />
+
+      <div className='container-lg'>
+        <App />
+      </div>      
+
     </BrowserRouter>
   </React.StrictMode>
 );
