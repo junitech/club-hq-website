@@ -52,7 +52,7 @@ function Members() {
             <img src="/images/sarah-mauney-evans.jpg" class="center-image" alt="" />
             <h2>Sarah Mauney-Evans, Rockledge, Florida USA</h2>
             <p>I was diagnosed with stage III Osteosarcoma in 2012 at the age of 26 and had a hemipelvectomy amputation as a result. At the time, I was serving in the military, U.S. Air Force, and was treated at Brooke Army Medical Center. I was fitted with a prosthesis, and was successful at walking unassisted in it, but prefer to ambulate with forearm crutches (SideStix) as they allow me to be more active. I have had two pregnancies post cancer and amputation and now have two healthy little boys to keep up with. I enjoy handcycling and swimming and have competed in both.  I also alpine ski (3 track).  My family and I currently live in Florida.</p>
-            <p>Sarah was the one-legged weightlifting poster girl for the Airman Warrior Athletes and won a gold medal for sprint cycling in the 2015 London Invictus Games</p>
+            <em>Sarah was the one-legged weightlifting poster girl for the Airman Warrior Athletes and won a gold medal for sprint cycling in the 2015 London Invictus Games</em>
 
             <img src="/images/roy-mcgee.jpg" class="center-image" alt="" />
             <h2>Roy McGee, Fenstanton, Cambridgeshire</h2>
