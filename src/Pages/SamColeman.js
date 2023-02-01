@@ -4,7 +4,7 @@ function SamColeman() {
         <>
             <h1>Sam Coleman</h1>
 
-            <img src="/images/sam-coleman.jpg" class="center-image" alt="" />
+            <img src="/images/sam-coleman.jpg" class="member-photo" alt="" />
 
             <p>Sam Coleman Kettering Northamptonshire</p>
 

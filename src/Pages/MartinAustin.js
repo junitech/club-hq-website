@@ -4,7 +4,7 @@ function MartinAustin() {
         <>
             <h1>Martin Austin</h1>
 
-            <img src="/images/martin-austin.jpg" class="center-image" alt="" />
+            <img src="/images/martin-austin.jpg" class="member-photo" alt="" />
 
             <p>Martin Austin MBE, Derby, Derbyshire</p>
 
