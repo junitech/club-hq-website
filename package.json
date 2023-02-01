@@ -2,6 +2,7 @@
   "name": "club-hq-website",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://junitech.github.io/club-hq-website/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
