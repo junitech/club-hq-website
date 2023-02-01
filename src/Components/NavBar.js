@@ -15,53 +15,53 @@ function NavBar() {
                         <li className="nav-item dropdown">
                                 <a className="nav-link dropdown-toggle" href="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">Home</a>
                                 <ul className="dropdown-menu">
-                                    <li><a className="dropdown-item" href="./">Home</a></li>
-                                    <li><a className="dropdown-item" href="./about-club-hq">About Club HQ</a></li>
+                                    <li><a className="dropdown-item" href="/">Home</a></li>
+                                    <li><a className="dropdown-item" href="/about-club-hq">About Club HQ</a></li>
                                 </ul>
                             </li>
                             <li className="nav-item dropdown">
                                 <a className="nav-link dropdown-toggle" href="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">About Hindquarter Amputations</a>
                                 <ul className="dropdown-menu">
-                                    <li><a className="dropdown-item" href="./about-the-surgery">About the surgery</a></li>
-                                    <li><a className="dropdown-item" href="./prosthetics">Prosthetics</a></li>
-                                    <li><a className="dropdown-item" href="./mental-health">Mental health</a></li>
-                                    <li><a className="dropdown-item" href="./phantom-pain">Phantom pain</a></li>
+                                    <li><a className="dropdown-item" href="/about-the-surgery">About the surgery</a></li>
+                                    <li><a className="dropdown-item" href="/prosthetics">Prosthetics</a></li>
+                                    <li><a className="dropdown-item" href="/mental-health">Mental health</a></li>
+                                    <li><a className="dropdown-item" href="/phantom-pain">Phantom pain</a></li>
                                 </ul>
                             </li>
                             <li className="nav-item dropdown">
                                 <a className="nav-link dropdown-toggle" href="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">Living with an HQA</a>
                                 <ul className="dropdown-menu">
-                                    <li><a className="dropdown-item" href="./mentoring-and-peer-support">Mentoring and peer support</a></li>
-                                    <li><a className="dropdown-item" href="./facebook-secret-group">Facebook secret group</a></li>
-                                    <li><a className="dropdown-item" href="./fitness">Fitness</a></li>
+                                    <li><a className="dropdown-item" href="/mentoring-and-peer-support">Mentoring and peer support</a></li>
+                                    <li><a className="dropdown-item" href="/facebook-secret-group">Facebook secret group</a></li>
+                                    <li><a className="dropdown-item" href="/fitness">Fitness</a></li>
                                 </ul>
                             </li>
                             <li className="nav-item dropdown">
                                 <a className="nav-link dropdown-toggle" href="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">Practical Support</a>
                                 <ul className="dropdown-menu">
-                                    <li><a className="dropdown-item" href="./financial-support">Financial support</a></li>
-                                    <li><a className="dropdown-item" href="./travel-and-entertainment">Travel and entertainment</a></li>
-                                    <li><a className="dropdown-item" href="./group-video-calls">Group video calls</a></li>
-                                    <li><a className="dropdown-item" href="./wheelchairs">Wheelchairs</a></li>
+                                    <li><a className="dropdown-item" href="/financial-support">Financial support</a></li>
+                                    <li><a className="dropdown-item" href="/travel-and-entertainment">Travel and entertainment</a></li>
+                                    <li><a className="dropdown-item" href="/group-video-calls">Group video calls</a></li>
+                                    <li><a className="dropdown-item" href="/wheelchairs">Wheelchairs</a></li>
                                 </ul>
                             </li>
                              <li className="nav-item dropdown">
                                 <a className="nav-link dropdown-toggle" href="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">Stories and Bios</a>
                                 <ul className="dropdown-menu">
-                                    <li><a className="dropdown-item" href="./sam-coleman">Sam Coleman</a></li>
-                                    <li><a className="dropdown-item" href="./martin-austin">Martin Austin</a></li>
-                                    <li><a className="dropdown-item" href="./members">Members</a></li>
-                                    <li><a className="dropdown-item" href="./one-mans-journey">One man's journey</a></li>
+                                    <li><a className="dropdown-item" href="/sam-coleman">Sam Coleman</a></li>
+                                    <li><a className="dropdown-item" href="/martin-austin">Martin Austin</a></li>
+                                    <li><a className="dropdown-item" href="/members">Members</a></li>
+                                    <li><a className="dropdown-item" href="/one-mans-journey">One man's journey</a></li>
                                 </ul>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="./faqs">FAQs</a>
+                                <a className="nav-link" href="/faqs">FAQs</a>
                             </li>
                             <li class="nav-item">
-                                <a className="nav-link" href="./our-supporters">Our supporters</a>
+                                <a className="nav-link" href="/our-supporters">Our supporters</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="./contact-us">Contact us</a>
+                                <a className="nav-link" href="/contact-us">Contact us</a>
                             </li>
                         </ul>
                     </div>
