@@ -12,13 +12,13 @@ function Wheelchairs() {
 
             <p>For those that would struggle to self mobilise using a manual wheelchair a power chair may be a good choice. These are large chairs designed for people that may have difficulty transferring and are controlled with a joystick.</p>
 
-            <img src="/images/wheelchairs-power-chairs.png" class="center-image" alt="" />
+            <img src="/images/wheelchairs-power-chairs.png" class="center-image" alt="Power chair" />
 
             <h2>Manual wheelchairs (attendant operated)</h2>
 
             <p>The cheapest option is standard self propelling chair with handles for extra support - these can typically be available from the NHS at no cost through your local wheelchair services.</p>
 
-            <img src="/images/wheelchairs-manual-chairs.png" class="center-image" alt="" />
+            <img src="/images/wheelchairs-manual-chairs.png" class="center-image" alt="Manual chair" />
 
             <h2>Active User Chairs</h2>
 
@@ -26,24 +26,24 @@ function Wheelchairs() {
 
             <p>These aren't cheap, but you may be able to access a wheelchair voucher scheme from your local wheelchair services to part fund the cost.</p>
 
-            <img src="/images/wheelchairs-active-chairs.png" class="center-image" alt="" />
+            <img src="/images/wheelchairs-active-chairs.png" class="center-image" alt="Active chair" />
 
             <h2>Sports Chairs</h2>
 
             <p>For those that want to be more active there has never been so many specialty chairs to choose from, from basketball, to road racing, to off road and a wide variety of hand cycles and trikes.</p>
 
-            <img src="/images/wheelchairs-sports-chairs-1.png" class="center-image" alt="" />
-            <img src="/images/wheelchairs-sports-chairs-2.png" class="center-image" alt="" />
-            <img src="/images/wheelchairs-sports-chairs-3.png" class="center-image" alt="" />
-            <img src="/images/wheelchairs-sports-chairs-4.png" class="center-image" alt="" />
+            <img src="/images/wheelchairs-sports-chairs-1.png" class="center-image" alt="Sports chair" />
+            <img src="/images/wheelchairs-sports-chairs-2.png" class="center-image" alt="Sports chair" />
+            <img src="/images/wheelchairs-sports-chairs-3.png" class="center-image" alt="Sports chair" />
+            <img src="/images/wheelchairs-sports-chairs-4.png" class="center-image" alt="Sports chair" />
 
             <h2>Adaptations and accessories</h2>
 
             <p>The 21st Century has seen rise to a whole range of add ons to manual wheelchair to increase range and independence.</p>
 
-            <img src="/images/wheelchairs-accessories-1.png" class="center-image" alt="" />
-            <img src="/images/wheelchairs-accessories-2.png" class="center-image" alt="" />
-            <img src="/images/wheelchairs-accessories-3.png" class="center-image" alt="" />
+            <img src="/images/wheelchairs-accessories-1.png" class="center-image" alt="Accessories" />
+            <img src="/images/wheelchairs-accessories-2.png" class="center-image" alt="Accessories" />
+            <img src="/images/wheelchairs-accessories-3.png" class="center-image" alt="Accessories" />
 
             <h2>Useful Links</h2>
 

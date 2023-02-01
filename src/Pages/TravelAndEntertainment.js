@@ -16,7 +16,7 @@ function TravelAndEntertainment() {
             <p>https://www.gov.uk/government/publications/g1-online-confidential-medical-information</p>
             <p>You will usually get a decision within six weeks. DVLA might ask you to take a driving assessment.</p>
 
-            <img src="/images/dvla-form-g1.jpg" class="center-image" alt="" />
+            <img src="/images/dvla-form-g1.jpg" class="center-image" alt="DVLA form G1" />
 
             <p>Licence holders wishing to drive after surgery should establish with their own doctor when it would be safe to do so. Drivers must ensure they remain covered by insurance to drive after surgery. You must surrender your licence to DVLA if your doctor tells you that you need to stop driving for three months or more because of your medical condition.</p>
 
@@ -58,7 +58,7 @@ function TravelAndEntertainment() {
 
             <h3>Motability</h3>
 
-            <img src="/images/motability.jpg" class="center-image" alt="" />
+            <img src="/images/motability.jpg" class="center-image" alt="Motability logo" />
 
             <p>The Motability Scheme enables anyone in receipt of a higher rate mobility allowance (such as the Enhanced Rate of the Mobility Component of Personal Independence Payment or the Higher Rate Mobility Component of Disability Living Allowance) to use their mobility allowance to lease a car, scooter, powered wheelchair or Wheelchair Accessible Vehicle.</p>
 
@@ -93,7 +93,7 @@ function TravelAndEntertainment() {
 
             <p>Blue Badges help disabled people park closer to their destination, whether as drivers or passengers. You qualify automatically for a badge if you meet at least one of certain benefit-related criteria: https://www.gov.uk/government/publications/blue-badge-can-i-get-one/can-i-get-a-blue-badge</p>
 
-            <img src="/images/blue-badge.png" class="center-image" alt="" />
+            <img src="/images/blue-badge.png" class="center-image" alt="Blue badge" />
 
             <p>You are not, as hind quarter amputee (HQA) automatically entitled to a Blue Badge but you should encounter no difficulty in being awarded one, as you are eligible on the basis that "you cannot walk at all.' Start here: https://www.gov.uk/apply-blue-badge to confirm that you may be eligible, and apply to your local authority. Follow this link to find out how to apply and what documents you'll need to provide.</p>
 
