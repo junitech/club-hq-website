@@ -40,8 +40,7 @@ function NavBar() {
                                 <a className="nav-link dropdown-toggle" href="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">Practical Support</a>
                                 <ul className="dropdown-menu">
                                     <li><a className="dropdown-item" href="/financial-support">Financial support</a></li>
-                                    <li><a className="dropdown-item" href="/travel-and-entertainment">Travel and entertainment</a></li>
-                                    <li><a className="dropdown-item" href="/group-video-calls">Group video calls</a></li>
+                                    <li><a className="dropdown-item" href="/driving-and-travel">Driving and travel</a></li>
                                     <li><a className="dropdown-item" href="/wheelchairs">Wheelchairs</a></li>
                                 </ul>
                             </li>

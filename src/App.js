@@ -13,8 +13,7 @@ import FacebookSecretGroupPage from './Pages/FacebookSecretGroup'
 import FitnessPage from './Pages/Fitness'
 
 import FinancialSupportPage from './Pages/FinancialSupport'
-import TravelAndEntertainmentPage from './Pages/TravelAndEntertainment'
-import GroupVideoCallsPage from './Pages/GroupVideoCalls'
+import DrivingAndTravelPage from './Pages/DrivingAndTravel'
 import WheelchairsPage from './Pages/Wheelchairs'
 
 import SamColemanPage from './Pages/SamColeman'
@@ -43,8 +42,7 @@ function App() {
         <Route path="/fitness" element={<FitnessPage />} />
 
         <Route path="/financial-support" element={<FinancialSupportPage />} />
-        <Route path="/travel-and-entertainment" element={<TravelAndEntertainmentPage />} />
-        <Route path="/group-video-calls" element={<GroupVideoCallsPage />} />
+        <Route path="/driving-and-travel" element={<DrivingAndTravelPage />} />
         <Route path="/wheelchairs" element={<WheelchairsPage />} />
 
         <Route path="/sam-coleman" element={<SamColemanPage />} />

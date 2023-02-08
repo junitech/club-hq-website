@@ -1,8 +1,8 @@
 
-function TravelAndEntertainment() {
+function DrivingAndTravel() {
     return (
         <>
-            <h1>Travel and entertainment</h1>
+            <h1>Driving and travel</h1>
 
             <p>Ian Coldicott is a hindquarter amputee and co-Founder of Club HQ</p>
 
@@ -114,4 +114,4 @@ function TravelAndEntertainment() {
     );
 }
 
-export default TravelAndEntertainment;
+export default DrivingAndTravel;
