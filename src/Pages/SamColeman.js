@@ -6,7 +6,7 @@ function SamColeman() {
 
             <img src="/images/sam-coleman.jpg" class="member-photo" alt="Sam Coleman" />
 
-            <p>Sam Coleman Kettering Northamptonshire</p>
+            <p>Sam Coleman, Kettering, Northamptonshire</p>
 
             <p>My story begins in June, 2003, when I was walking with my husband and almost 2 year old son. I climbed up on a stile and my left femur just snapped beneath me. As we were in the water meadows near Cambridge, an ambulance couldn't find us, and then wouldn't bolt crop a chain lock to get to me. Instead they had to sedate me heavily to enable me to be lifted over a five bar gate! I was taken to the local hospital who questioned me over and over again about how I had broken my leg. They kept saying "You can't have broken your leg simply walking".  They implied that either my husband had broken it or I'd been in a car accident! Things went from bad to worse when the following day, after several scans and X-rays, I was taken down for an operation to bolt my femur back together.  They took a biopsy at the same time and 2 weeks later I was told I'd been referred to the Royal Orthopaedic Hospital in Birmingham, and that I had a Chondrosarcoma. </p>
 

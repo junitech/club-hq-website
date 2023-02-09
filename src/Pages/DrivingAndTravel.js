@@ -9,12 +9,11 @@ function DrivingAndTravel() {
             <h2>Driving</h2>
 
             <h3>Driving with a medical condition, Blue Badges, public transport and using airports as a hind quarter amputee</h3>
-            <p>This link is the best place to start. Details of what's covered are in the following paragraphs. https://www.gov.uk/browse/driving/disability-health-condition</p>
+
+            <p>The Government have published a wealth of information on <a href="https://www.gov.uk/browse/driving/disability-health-condition">driving with medical conditions</a>. Further details based on this guidance are covered are in the following paragraphs.</p>
 
             <h3>Driving with a medical condition</h3>
-            <p>You must tell DVLA if you hold a driving licence and have had a limb amputated. You can be fined if you don't tell DVLA about a medical condition that affects your driving. To report your medical condition, fill in form DVLA form G1 (see below).</p>
-            <p>https://www.gov.uk/government/publications/g1-online-confidential-medical-information</p>
-            <p>You will usually get a decision within six weeks. DVLA might ask you to take a driving assessment.</p>
+            <p>You must tell the DVLA if you hold a driving licence and have had a limb amputated. You can be fined if you don't tell DVLA about a medical condition that affects your driving. To report your medical condition, fill in <a href="https://www.gov.uk/government/publications/g1-online-confidential-medical-information">DVLA form G1</a> (example below). You will usually get a decision within six weeks, but the DVLA might ask you to take a driving assessment.</p>
 
             <img src="/images/dvla-form-g1.jpg" class="center-image" alt="DVLA form G1" />
 
@@ -22,19 +21,13 @@ function DrivingAndTravel() {
 
             <h3>Disabled Driving Centres</h3>
 
-            <p>There are 20 main disabled driving centres throughout the UK: each centre has satellite driving centres which may be more conveniently located. Special conditions apply if you live in Scotland or Wales.</p>
+            <p>There are <a href="https://www.drivingmobility.org.uk/find-a-centre/">20 main disabled driving centres throughout the UK</a>. Each centre has satellite driving centres which may be more conveniently located. Special conditions apply if you live in Scotland or Wales.</p>
 
-            <p>https://www.drivingmobility.org.uk/find-a-centre/</p>
-
-            <p>These are independent disabled driving organisations that provide a range of mobility assessment services and advice. They provide driving tuition and assessment using dual control adapted vehicles, including vehicles fitted with hand controls or left foot accelerators. Many centres will accept self referrals. Prices vary form centre to centre.</p>
-
-            <p>https://www.drivingmobility.org.uk/information/physical-disability/</p>
+            <p>These are <a href="https://www.drivingmobility.org.uk/">independent disabled driving organisations</a> that provide a range of mobility assessment services and advice. They provide driving tuition and assessment using dual control adapted vehicles, including vehicles fitted with hand controls or left foot accelerators. Many centres will accept self referrals. Prices vary form centre to centre.</p>
 
             <h3>Vehicle adaptations</h3>
 
-            <p>You should be able to drive a car with automatic transmission, though if you have a left leg you would need to have a left foot accelerator fitted. This would cost around £450 including fitting from the best known supplier Jeff Gosling Hand Controls Ltd. or from a suitably experienced vehicle adaptation specialist. Alternatively, you may prefer to have the vehicle adapted with hand controls. You may also wish to have a hoist fitted to your vehicle to make a wheelchair or mobility scooter easier to load on and off.</p>
-
-            <p>https://www.jeffgosling.co.uk</p>
+            <p>You should be able to drive a car with automatic transmission, though if you have a left leg you would need to have a left foot accelerator fitted. This would cost around £450 including fitting from the best known supplier <a href="https://www.jeffgosling.co.uk">Jeff Gosling Hand Controls Ltd</a>, or from a suitably experienced vehicle adaptation specialist. Alternatively, you may prefer to have the vehicle adapted with hand controls. You may also wish to have a hoist fitted to your vehicle to make a wheelchair or mobility scooter easier to load on and off.</p>
 
             <h3>Vehicle tax exemption</h3>
 
@@ -53,20 +46,17 @@ function DrivingAndTravel() {
             <p>You can get a 50% reduction in vehicle tax if you get the PIP standard rate mobility component. The vehicle should be registered in the name of either the disabled person or their nominated driver.</p>
 
             <h3>Toll road concessions</h3>
-            <p>You may not have to pay the full fare at some river crossings, bridges and tunnels if you're disabled. In most cases, you have to apply in advance to get a concession.</p>
-            <p>https://www.gov.uk/toll-concessions</p>
+            <p>You may not have to pay the full fare at some river crossings, bridges and tunnels if you're disabled. In most cases, you have to apply in advance to get a <a href="https://www.gov.uk/toll-concessions">concession</a>.</p>
 
             <h3>Motability</h3>
 
             <img src="/images/motability.jpg" class="center-image" alt="Motability logo" />
 
-            <p>The Motability Scheme enables anyone in receipt of a higher rate mobility allowance (such as the Enhanced Rate of the Mobility Component of Personal Independence Payment or the Higher Rate Mobility Component of Disability Living Allowance) to use their mobility allowance to lease a car, scooter, powered wheelchair or Wheelchair Accessible Vehicle.</p>
+            <p>The <a href="https://www.motability.co.uk/about/how-the-scheme-works/">Motability Scheme</a> enables anyone in receipt of a higher rate mobility allowance (such as the Enhanced Rate of the Mobility Component of Personal Independence Payment or the Higher Rate Mobility Component of Disability Living Allowance) to use their mobility allowance to lease a car, scooter, powered wheelchair or Wheelchair Accessible Vehicle.</p>
 
             <p>You exchange all, or part of your mobility allowance to lease the vehicle of your choice. You choose the vehicle you want at a price that works for you , and payments are deducted from your higher rate mobility allowance every four weeks, then paid directly to Motability by the DWP.</p>
 
             <p>The standard lease is over three years, or five years if you are leasing a Wheelchair Accessible Vehicle and Motability take care of running costs such as insurance for up to three named drivers (this doesn't have to be you), servicing, maintenance, breakdown cover, tyre repair and replacement and windscreen repairs.</p>
-
-            <p>https://www.motability.co.uk/about/how-the-scheme-works/</p>
 
             <p>If you are eligible for the Scheme, you should contact a Motability dealer and arrange an appointment with their Motability Scheme specialist.</p>
 
@@ -87,15 +77,15 @@ function DrivingAndTravel() {
 
             <p>You do not need to register a class 2 invalid carriage. You must register class 3 invalid carriages.</p>
 
-            <p>https://www.gov.uk/mobility-scooters-and-powered-wheelchairs-rules</p>
+            The Government have <a target="_blank" rel="noreferrer" href="https://www.gov.uk/mobility-scooters-and-powered-wheelchairs-rules">published rules</a> around the use of mobility scooters and powered wheelchairs.
 
             <h3>The Blue Badge scheme</h3>
 
-            <p>Blue Badges help disabled people park closer to their destination, whether as drivers or passengers. You qualify automatically for a badge if you meet at least one of certain benefit-related criteria: https://www.gov.uk/government/publications/blue-badge-can-i-get-one/can-i-get-a-blue-badge</p>
+            <p>Blue Badges help disabled people park closer to their destination, whether as drivers or passengers. You qualify automatically for a badge if you meet at least one of certain <a target="_blank" rel="noreferrer" href="https://www.gov.uk/government/publications/blue-badge-can-i-get-one/can-i-get-a-blue-badge">benefit-related criteria</a>.</p>
 
             <img src="/images/blue-badge.png" class="center-image" alt="Blue badge" />
 
-            <p>You are not, as hind quarter amputee (HQA) automatically entitled to a Blue Badge but you should encounter no difficulty in being awarded one, as you are eligible on the basis that "you cannot walk at all.' Start here: https://www.gov.uk/apply-blue-badge to confirm that you may be eligible, and apply to your local authority. Follow this link to find out how to apply and what documents you'll need to provide.</p>
+            <p>You are not, as hind quarter amputee (HQA), automatically entitled to a Blue Badge but you should encounter no difficulty in being awarded one, as you are eligible on the basis that "you cannot walk at all." You can <a href="https://www.gov.uk/apply-blue-badge">confirm that you may be eligible</a> and <a href="https://www.gov.uk/apply-blue-badge">apply to your local authority</a> by providing the appropriate documentation.</p>
 
             <p>Hints on completing the application form for a Blue Badge:</p>
 
@@ -107,9 +97,7 @@ function DrivingAndTravel() {
 
             <p>In addition, people who have a blue badge are often able to automatically access other concessions. For example, Blue Badge holders are able to gain exemption from the London Congestion Charge by registering with Transport for London in advance. There are also special car benefit rule adjustments for Blue Badge holders in employment which could mean they pay less tax.</p>
 
-            <p>There is a different way to apply in Northern Ireland:</p>
-
-            <p>https://www.nidirect.gov.uk/articles/rights-and-responsibilities-blue-badge-holders</p>
+            <p>There is a different way to apply in <a target="_blank" rel="noreferrer" href="https://www.nidirect.gov.uk/articles/rights-and-responsibilities-blue-badge-holders">Northern Ireland</a>.</p>
         </>
     );
 }
