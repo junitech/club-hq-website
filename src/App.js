@@ -8,7 +8,7 @@ import ProstheticsPage from './Pages/Prosthetics'
 import MentalHealthPage from './Pages/MentalHealth'
 import PhantomPainPage from './Pages/PhantomPain'
 
-import MentoringAndPeerSupportPage from './Pages/MentoringAndPeerSupport'
+import MentoringAndCounsellingPage from './Pages/MentoringAndCounselling'
 import FacebookSecretGroupPage from './Pages/FacebookSecretGroup'
 import FitnessPage from './Pages/Fitness'
 
@@ -37,7 +37,7 @@ function App() {
         <Route path="/mental-health" element={<MentalHealthPage />} />
         <Route path="/phantom-pain" element={<PhantomPainPage />} />
 
-        <Route path="/mentoring-and-peer-support" element={<MentoringAndPeerSupportPage />} />
+        <Route path="/mentoring-and-counselling" element={<MentoringAndCounsellingPage />} />
         <Route path="/facebook-secret-group" element={<FacebookSecretGroupPage />} />
         <Route path="/fitness" element={<FitnessPage />} />
 

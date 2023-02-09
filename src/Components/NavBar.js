@@ -31,7 +31,7 @@ function NavBar() {
                             <li className="nav-item dropdown">
                                 <a className="nav-link dropdown-toggle" href="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">Living with an HQA</a>
                                 <ul className="dropdown-menu">
-                                    <li><a className="dropdown-item" href="/mentoring-and-peer-support">Mentoring and peer support</a></li>
+                                    <li><a className="dropdown-item" href="/mentoring-and-counselling">Mentoring and counselling</a></li>
                                     <li><a className="dropdown-item" href="/facebook-secret-group">Facebook secret group</a></li>
                                     <li><a className="dropdown-item" href="/fitness">Fitness</a></li>
                                 </ul>
