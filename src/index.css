@@ -55,3 +55,26 @@ img {
     margin: 10px;
 }
 
+table {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+table th, td {
+  padding: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+table td {
+  color: #000000;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #bbbbbb;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #cccccc;
+}
+

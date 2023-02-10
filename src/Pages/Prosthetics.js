@@ -16,6 +16,7 @@ function Prosthetics() {
 
             <p>Until 2016, our Hip disarticulation/ hemipelvectomy sockets had been made primarily with flat seat for ischial/soft tissue bearing and suspension over iliac crests.</p>
 
+            <img src="/images/prosthetics-sockets.png" alt="Sockets" />
             Figure 1
 
             <p>We cast using a casting table, angled blocks for hip angles and ropes/chains for pulling in over iliac crests. This creates a 3-point force system (coronal plane) which stabilises the pelvis in the socket. Anterior-posterior control is achieved with good volume matching (hydro-static control) and a snug A-P dimension in the socket.</p>
@@ -32,6 +33,7 @@ function Prosthetics() {
 
             <p>The socket has anterior and posterior “wings” (a) which stabilise the pelvis front to back, and flexible iliac crest stabilisers (b) on either side to provide medio-lateral control and suspension of the prosthesis.</p>
 
+            <img src="/images/prosthetics-bikini-socket-diagram.png" alt="Bikini socket" />
             Figure 2.
 
             <p>The lateral trim on the amputated side (c) is cut low for comfort - the strap now serving the purpose that until now the high lateral trim had been doing.</p>
@@ -47,6 +49,8 @@ function Prosthetics() {
             <p>Complications such as stoma bags or nephrostomy sites can be avoided using careful trimline management.</p>
 
             <p>The reduced trimlines allow release of perspiration, improving the user's ability to regulate temperate, and provides a very lightweight socket.</p>
+
+            <img src="/images/prosthetics-bikini-socket-photos.png" alt="Bikini socket" />
 
             <h3>Outcomes</h3>
 
@@ -109,7 +113,98 @@ function Prosthetics() {
 
             <p>We put her forward for MPK pre- assessment in April 2017 and she was accepted onto a four week trial, below are her outcome measures using initially the original prescription then after 4 weeks trial on MPK/hydraulic ankle.( Her hip joint remained unchanged)</p>
 
-            Table
+            <table>
+            <caption></caption>                
+                <thead>
+                    <tr>
+                        <th>Summary of Clinical Outcome Measures</th>
+                        <th>Original Px</th>
+                        <th>4 Weeks</th>
+                    </tr>
+                </thead>
+                <tbody>
+                <tr>
+                        <td>Trips & stumbles</td>
+                        <td>2</td>
+                        <td>0</td>
+                    </tr>
+                    <tr>
+                        <td>Falls</td>
+                        <td>0</td>
+                        <td>0</td>
+                    </tr>
+                    <tr>
+                        <td>PHQ-9</td>
+                        <td>1</td>
+                        <td>0</td>
+                    </tr>
+                    <tr>
+                        <td>GAD-7</td>
+                        <td>0</td>
+                        <td>0</td>
+                    </tr>
+                    <tr>
+                        <td>EQ-5D</td>
+                        <td>33331</td>
+                        <td>22221</td>
+                    </tr>
+                    <tr>
+                        <td>RNL index</td>
+                        <td>72.1</td>
+                        <td>97</td>
+                    </tr>
+                    <tr>
+                        <td>EQ-VAS</td>
+                        <td>90</td>
+                        <td>90</td>
+                    </tr>
+                    <tr>
+                        <td>Heart rate (RESTING)</td>
+                        <td>66</td>
+                        <td>67</td>
+                    </tr>
+                    <tr>
+                        <td>O2</td>
+                        <td>93</td>
+                        <td>98</td>
+                    </tr>
+                    <tr>
+                        <td>SCS</td>
+                        <td>8</td>
+                        <td>9</td>
+                    </tr>
+                    <tr>
+                        <td>2MWT</td>
+                        <td>53</td>
+                        <td>83</td>
+                    </tr>
+                    <tr>
+                        <td>6MWT</td>
+                        <td>135</td>
+                        <td>238</td>
+                    </tr>
+                    <tr>
+                        <td>TUG</td>
+                        <td>26</td>
+                        <td>15</td>
+                    </tr>
+                    <tr>
+                        <td>10m timed walk</td>
+                        <td>18.79</td>
+                        <td>14</td>
+                    </tr>
+                    <tr>
+                        <td>SIGAM</td>
+                        <td>Dc</td>
+                        <td>Dc/E</td>
+                    </tr>
+                    <tr>
+                        <td>K</td>
+                        <td>2</td>
+                        <td>3</td>
+                    </tr>
+                </tbody>
+            </table>
 
             <p>The notable improvements are the elimination of trips and stumbles and the increased distance walked on her 2 and 6 minute walking trails (61% and 57% respectively). There was also an excellent improvement in her TUG (timed up and go) and the 10m timed walk.</p>
 
@@ -119,7 +214,7 @@ function Prosthetics() {
 
             <h3>Conclusion</h3>
             <p>Patients with hip disarticulation and hemi-pelvectomy levels of amputation are challenging to rehabilitate, both for the patients and the clinicians. However, excellent outcomes can be attained with careful consideration of socket styles and components and good physiotherapy input.</p>
-       </>
+        </>
     );
 }
 
