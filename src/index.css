@@ -12,10 +12,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-.container-lg{
+
+.container-lg {
     background-color: #eeeeee;
     padding: 10px;
-    
 }
 
 .quote {
@@ -24,6 +24,7 @@ code {
   padding: 1em;
   border-radius: 1em;
 }
+
 .quote figcaption,
 .quote blockquote {
   margin: 1em;
@@ -76,4 +77,15 @@ tbody tr:nth-child(odd) {
 
 tbody tr:nth-child(even) {
   background-color: #cccccc;
+}
+
+header {
+  border: 1px dotted black;
+  height: 100px;
+  margin: 15px;
+}
+
+main {
+  border: 1px dotted black;
+  margin: 15px;
 }

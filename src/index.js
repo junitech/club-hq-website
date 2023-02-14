@@ -15,9 +15,11 @@ root.render(
     <BrowserRouter>
       <NavBar />
 
-      <div className='container-lg'>
-        <App />
-      </div>      
+      <main>
+        <div className='container-lg'>
+          <App />
+        </div>      
+      </main>
 
     </BrowserRouter>
   </React.StrictMode>
