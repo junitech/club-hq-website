@@ -112,8 +112,13 @@ figure {
   font-style: italic;
   font-size: smaller;
   text-indent: 0;
+  border: thin silver solid;
 }
 
 h2 {
   clear: both;
+}
+
+section h2 {
+  clear: none;
 }
