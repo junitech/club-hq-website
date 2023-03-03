@@ -23,7 +23,7 @@ function OurSupporters() {
 
             <img src="/images/nimbus-disability-logo.jpg" alt="Nimbus Disability logo" class="align-left"></img>
             <img src="/images/access-card.jpg" width={300} alt="The Access Card" class="align-right"></img>
-            <img src="/images/queens-award-for-enterprise-logo.png" alt="Queen's Award for Enterprise" class="align-right"></img>
+            <img src="/images/queens-award-for-enterprise-logo.png" width={100} alt="Queen's Award for Enterprise" class="align-right"></img>
 
             <p>Nimbus Disability is a social Enterprise set up to support businesses to meet and exceed their legal obligations toward disabled people. An outcome of our 15+ years of experience became a scheme called the <a href="https://www.accesscard.online/" target="_blank" rel="noreferrer">Access Card</a>.</p>
 
