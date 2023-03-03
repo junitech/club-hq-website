@@ -2,7 +2,7 @@
 function Members() {
     return (
         <>
-            <h1>Members</h1>
+            <h1>Some Members</h1>
 
             <section>
             <img src="/images/murad-abdulkarim.jpg" class="member-photo align-left" alt="Murad Abdulkarim" />

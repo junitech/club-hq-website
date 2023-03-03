@@ -4,12 +4,28 @@ function OurSupporters() {
         <>
             <h1>Our supporters</h1>
 
+            <h2>Sarcoma UK</h2>
+
+            <img src="/images/sarcoma-uk-logo.jpg" width={300} class="align-left" alt="Sarcoma UK"></img>
+            <p><a href="https://sarcoma.org.uk/about-us" target="_blank" rel="noreferrer">Sarcoma UK</a> is a national charity that funds vital research, offers support for anyone affected by sarcoma and campaigns for better treatments. It is the only cancer charity in the UK focusing on all types of sarcoma.</p>
+  
+            <p>Please contact the Sarcoma UK support line with any questions, or just to talk.</p>
+
+            <p>Contact details:
+ 
+            Sarcoma UK Support Line:
+            Freephone: 0808 801 401 (open Monday -Friday, 10am - 3pm)
+            Email: supportline@sarcoma.org.uk
+            Text: 07860 058 830 
+            </p>
+
             <h2>Nimbus and The Access Card</h2>
 
             <img src="/images/nimbus-disability-logo.jpg" alt="Nimbus Disability logo" class="align-left"></img>
             <img src="/images/access-card.jpg" width={300} alt="The Access Card" class="align-right"></img>
+            <img src="/images/queens-award-for-enterprise-logo.png" alt="Queen's Award for Enterprise" class="align-right"></img>
+
             <p>Nimbus Disability is a social Enterprise set up to support businesses to meet and exceed their legal obligations toward disabled people. An outcome of our 15+ years of experience became a scheme called the <a href="https://www.accesscard.online/" target="_blank" rel="noreferrer">Access Card</a>.</p>
-            
 
             <p><strong>The Access Card</strong> is a photo ID card for disabled people that communicates their access requirements (and legal rights) through a series of symbols on the card. The idea being that it is quick, easy and discreet for disabled people to ask for, and service providers to offer, critical reasonable adjustments.</p>
 
@@ -43,19 +59,6 @@ function OurSupporters() {
             <br/>
             <br/>
             <br/>
-
-            <h2>Sarcoma UK</h2>
-
-            <img src="/images/sarcoma-uk-logo.jpg" width={300} class="align-left" alt="Sarcoma UK"></img>
-            <p><a href="https://sarcoma.org.uk/about-us" target="_blank" rel="noreferrer">Sarcoma UK</a> is a national charity that funds vital research, offers support for anyone affected by sarcoma and campaigns for better treatments. It is the only cancer charity in the UK focusing on all types of sarcoma.</p>
-  
-            <p>Contact details:
- 
-            Sarcoma UK Support Line:
-            Phone: 0808 801 401
-            Email: supportline@sarcoma.org.uk
-            Text: 07860058830 
-            </p>
 
         </>
     );

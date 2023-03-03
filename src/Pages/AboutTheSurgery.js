@@ -4,7 +4,7 @@ function AboutTheSurgery() {
         <>
             <h1>About the surgery</h1>
 
-            Professor Rob Grimer MB, BS, DSc, FRCS(Eng), FRCS (Ed)(Orth) is the recently retired Professor of Orthopaedic Oncology at ROH Birmingham and is one of the world's leading authorities on sarcoma. He is a founding Trustee of the Bone Cancer Research Trust and has helped pioneer a number of new surgical techniques.
+            Author: Professor Rob Grimer MB, BS, DSc, FRCS(Eng), FRCS (Ed)(Orth) is the recently retired Professor of Orthopaedic Oncology at ROH Birmingham and is one of the world's leading authorities on sarcoma. He is a founding Trustee of the Bone Cancer Research Trust and has helped pioneer a number of new surgical techniques.
 
             <h2>What is a hindquarter amputation?</h2>
 

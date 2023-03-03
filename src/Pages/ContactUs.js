@@ -16,6 +16,9 @@ function ContactUs() {
                 <label for="full-name">Full name:</label>
                 <input type="text" id="full-name" name="full-name" />
 
+                <label for="address">Address:</label>
+                <input type="text" id="address" name="address" />
+
                 <label for="email-address">Email address:</label>
                 <input type="text" id="email-address" name="email-address" />
 
