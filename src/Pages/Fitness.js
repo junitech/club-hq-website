@@ -17,7 +17,7 @@ function Fitness() {
             <p>Recumbent cycles, hand cycles, wheelchair basketball, rock climbing, golf, skiing, sailing and swimming all improve your core and your ability to move around confidently and safely.</p>
 
             <h2>Club HQ Fitness Group</h2>
-            <p>Denise, a member of ClubHQ, runs a weekly video pilates and fitness group who exercise in a seated position. This is a very popular class and more details are available on request through the <a href="contact-us">contact</a> page.</p>
+            <p>Denise Cooper, a member of Club HQ, is an exercise referral and personal trainer. She currently offers individual weight and exercise assessments as well as three video classes per week. They are very popular classes, and more details are available on request through the <a href="contact-us">contact</a> page.</p>
         </>
     );
 }
