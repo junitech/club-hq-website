@@ -1,0 +1,20 @@
+.footer {
+    min-height: 10px;
+    background: rgb(161, 221, 248);
+    position: relative;
+  }
+  
+  .footer span {
+    position: absolute;
+    color:white;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 3px;
+    background: rgb(4, 88, 94);
+  }
+
+  
+  .copyright {
+      text-align: center;
+  }
