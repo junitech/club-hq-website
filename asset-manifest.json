@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.d4d61eda.css",
-    "main.js": "/static/js/main.991a84ba.js",
+    "main.js": "/static/js/main.11f3dd16.js",
     "static/js/787.12ffbcd3.chunk.js": "/static/js/787.12ffbcd3.chunk.js",
     "static/media/pexels-marcus-aurelius-4064337.jpg": "/static/media/pexels-marcus-aurelius-4064337.8adbc0f93dfe6e706e84.jpg",
     "index.html": "/index.html",
     "main.d4d61eda.css.map": "/static/css/main.d4d61eda.css.map",
-    "main.991a84ba.js.map": "/static/js/main.991a84ba.js.map",
+    "main.11f3dd16.js.map": "/static/js/main.11f3dd16.js.map",
     "787.12ffbcd3.chunk.js.map": "/static/js/787.12ffbcd3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d4d61eda.css",
-    "static/js/main.991a84ba.js"
+    "static/js/main.11f3dd16.js"
   ]
 }
