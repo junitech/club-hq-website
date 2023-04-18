@@ -154,19 +154,25 @@ function OurSupporters() {
                     </div>
                     <div className="col-md-8">
                         <div className="card-body">
-                           
                             <p className="card-text"><a href="https://www.macmillan.org.uk/cancer-information-and-support" target="_blank" rel="noreferrer">Macmillan Cancer Support</a> offers comprehensive expert information and practical support on a wide range of matters.  From clinical and well-being information to legal and financial support and advice.  In some areas Macmillan volunteers offer practical support to patients on their return from hospital.</p>
                         </div>
                     </div>
                 </div>
             </div>
 
-            {/* <img src="/images/macmillan-cancer-support-logo.png" width={400} class="align-left" alt="Macmillan Cancer Support"></img>
-            <p><a href="https://www.macmillan.org.uk/cancer-information-and-support" target="_blank" rel="noreferrer">Macmillan Cancer Support</a> offers comprehensive expert information and practical support on a wide range of matters.  From clinical and well-being information to legal and financial support and advice.  In some areas Macmillan volunteers offer practical support to patients on their return from hospital.</p>
-
             <h2>Sidestix</h2>
-            <img src="/images/sidestix-logo.png" width={400} class="align-left" alt="Sidestix"></img>
-            <p>See the Secret Facebook Group for Club HQ discount code.</p>
+            <div className="card mb-3">
+                <div className="row g-0">
+                    <div className="col-md-4">
+                        <img src="/images/sidestix-logo.png" width={400} class="align-left" alt="Sidestix"></img>
+                    </div>
+                    <div className="col-md-8">
+                        <div className="card-body">
+                            <p className="card-text">See the Secret Facebook Group for Club HQ discount code.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
             <br/>
             <br/>
@@ -174,7 +180,7 @@ function OurSupporters() {
             <br/>
             <br/>
             <br/>
-            <br/> */}
+            <br/>
             </div>
 
         </>
