@@ -13,9 +13,21 @@ code {
     monospace;
 }
 
+.container{
+    padding: 5px;
+    background-color:#e9e7e7;
+}
+
 .container-lg {
     background-color: #fefefe;
     padding: 10px;
+}
+.card {
+    width: 70rem;
+    padding: 5px;
+    align-content: center;
+    margin: 10px;
+
 }
 
 .quote {
@@ -54,6 +66,7 @@ img {
     border: 5px solid #555;
     border-radius: 1%;
     margin: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
 }
 
 img.align-left {
@@ -101,10 +114,10 @@ header {
   background-color: #ffffdd;
 }
 
-main {
+/* main {
   border: 1px dotted black;
   margin: 15px;
-}
+} */
 
 figure {
   float: left;

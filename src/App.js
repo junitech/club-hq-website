@@ -1,4 +1,5 @@
 import './App.css';
+
 import { Routes, Route } from 'react-router-dom';
 import HomePage from './Pages/Home'
 import AboutClubHQPage from './Pages/AboutClubHQ'
@@ -28,7 +29,9 @@ import ContactUsPage from './Pages/ContactUs'
 function App() {
   return (
     <>
+    
       <Routes>
+     
         <Route path="/" element={<HomePage />} />
         <Route path="/about-club-hq" element={<AboutClubHQPage />} />
 
@@ -54,6 +57,7 @@ function App() {
         <Route path="/our-supporters" element={<OurSupportersPage />} />
         <Route path="/contact-us" element={<ContactUsPage />} />
       </Routes>
+      
     </>
   );
 }
