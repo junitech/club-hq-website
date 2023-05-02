@@ -23,6 +23,8 @@ code {
 .container-lg {
     background-color: #fefefe;
     padding: 10px;
+    border-style: solid;
+    border-color: #04585E;
 }
 
 .card {
