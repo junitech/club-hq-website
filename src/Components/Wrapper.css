@@ -1,7 +1,5 @@
 .wrapper {
     min-height: 100%;
-    padding-bottom: 100px;
-    background-color: rgb(171, 206, 206);
-   
-    
+    background-color: #DEB703;
+    padding: 10px;
 }

@@ -1,11 +1,10 @@
-//import './NavBar.css';
+import './NavBar.css';
 
 function NavBar() {
     return (
         <>
             <nav className="navbar navbar-expand-sm">
                 <div className="container-fluid">
-                <a className="navbar-brand" href="/">Club HQ</a>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>

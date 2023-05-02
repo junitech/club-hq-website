@@ -1,7 +1,11 @@
 .hero {
-    height: 200px;
+    height: 130px;
     background-size: cover;
     background-position: center;
     position: relative;
-    background-image: url(../../public/images/pexels-marcus-aurelius-4064337.jpg);
+    background-color: #DEB703;
+}
+
+#logo {
+    height: 80px;
 }

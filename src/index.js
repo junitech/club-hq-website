@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
 import { BrowserRouter } from 'react-router-dom';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
@@ -10,8 +9,7 @@ import "bootstrap/dist/js/bootstrap.bundle.min";
 import Wrapper from './Components/Wrapper';
 import Header from './Components/Header';
 import Footer from './Components/Footer';
-
-
+import './index.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -19,9 +17,8 @@ root.render(
    
     <BrowserRouter>
    
-    
+      <Header />
       <NavBar />
-      <Header/>
       <Wrapper>
       <main>
         <div className='container-lg'>

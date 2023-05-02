@@ -1,3 +1,4 @@
+import AnimatedGrid from '../Components/AnimatedGrid';
 
 function Home() {
     return (
@@ -8,6 +9,9 @@ function Home() {
             </div>
 
             <p>Welcome to the website of Club HQ, a mutual support group set up by hindquarter amputees for those with existing or upcoming hindquarter amputations. We are UK based but we have members from Eire, the United States and New Zealand.</p>
+
+            <AnimatedGrid />
+
         </>
     );
 }
