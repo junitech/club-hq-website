@@ -13,22 +13,27 @@ function ContactUs() {
             <p>Please list your contact details below with your message and we will respond as soon as possible:</p>
 
             <form action="https://formspree.io/f/xayzqyna" method="POST">
-                <label for="full-name">Full name:</label>
-                <input type="text" id="full-name" name="full-name" />
+                <div className="mb-3">
+                <label for="full-name" className="form-label">Full name:</label><span>*</span>
+                <input type="text" className="form-control" id="full-name" name="full-name" required/>
+                </div>
 
-                <label for="address">Address:</label>
-                <input type="text" id="address" name="address" />
+                <div className="mb-3">
+                <label for="email-address" className="form-label" >Email address:</label><span>*</span>
+                <input type="email" className="form-control" id="email-address" name="email-address"  required/>
+                </div>
 
-                <label for="email-address">Email address:</label>
-                <input type="text" id="email-address" name="email-address" />
+                <div className="mb-3">
+                <label for="phone" className="form-label">Phone number:</label>
+                <input type="text" className="form-control" id="phone" name="phone" />
+                </div>
 
-                <label for="phone">Phone number:</label>
-                <input type="text" id="phone" name="phone" />
+                <div className="mb-3">
+                <label for="message" className="form-label">Message:</label><span>*</span>
+                <textarea className="form-control" id="message" name="message" required></textarea>
+                </div>
 
-                <label for="message">Message:</label>
-                <textarea id="message" name="message"></textarea>
-
-                <input type="submit" value="Send" />
+                <button type="submit" className="btn btn-warning" value="Send">Submit</button>
             </form>
         </>
     );

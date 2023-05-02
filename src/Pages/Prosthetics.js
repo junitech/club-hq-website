@@ -3,7 +3,7 @@ function Prosthetics() {
     return (
         <>
             <h1>The Prosthetic Care of Hip Disarticulation and Hemi-pelvectomy Amputees</h1>
-
+            <section>
             <h2>Socket and Prescription Choices</h2>
 
             <p>Author: Jane Mclean, Senior Prosthetist, Blatchford (30/09/2020)</p>
@@ -11,12 +11,14 @@ function Prosthetics() {
             <p>Hip disarticulation and hemi-pelvectomy are rare amputation sites, accounting for approximately 0.5% of lower limb amputations in UK. Causes of amputations at these levels include cancer, infection, intravenous drug use and trauma.</p>
             <p>Not all amputees at this level are suitable for prosthetic rehabilitation but they are usually given the opportunity to discuss their options with the multi-disciplinary team.</p>
             <p>We are constantly seeking new and innovative ways to improve the outcomes of these particularly complex patients.</p>
+            </section>
 
+            <section>
             <h3>Sockets</h3>
 
             <p>Until 2016, our Hip disarticulation/ hemipelvectomy sockets had been made primarily with flat seat for ischial/soft tissue bearing and suspension over iliac crests.</p>
 
-            <img src="/images/prosthetics-sockets.png" alt="Sockets" />
+            <img src="/images/prosthetics-sockets.png"class="center-image" alt="Sockets" />
 
             <p>We cast using a casting table, angled blocks for hip angles and ropes/chains for pulling in over iliac crests. This creates a 3-point force system (coronal plane) which stabilises the pelvis in the socket. Anterior-posterior control is achieved with good volume matching (hydro-static control) and a snug A-P dimension in the socket.</p>
 
@@ -25,14 +27,16 @@ function Prosthetics() {
             <p>Ambulation using a hip disarticulation prosthesis requires 100-200% more energy expenditure than “normal” gait. Having lost approximately 18% of their total body surface area due to their amputation, the body’s thermoregulation has been compromised. The high trimlines of the traditional hip socket further compounds this issue as it covers an additional approximately 19%, further reducing the body’s ability to control temperature. This results in the user suffering from perspiration in the socket and the issues this brings, and can be very uncomfortable.</p>
 
             <p>In 2016, we became aware of the Bikini style socket and began evaluating its use in practice, as a result we now routinely incorporate this into our practice.</p>
+            </section>
 
+            <section>
             <h3>What is the bikini socket?</h3>
 
             <p>As the name suggests, the socket covers as little as possible while still serving its purpose.</p>
 
             <p>The socket has anterior and posterior “wings” (a) which stabilise the pelvis front to back, and flexible iliac crest stabilisers (b) on either side to provide medio-lateral control and suspension of the prosthesis.</p>
 
-            <img src="/images/prosthetics-bikini-socket-diagram.png" alt="Bikini socket" />
+            <img src="/images/prosthetics-bikini-socket-diagram.png" class="center-image" alt="Bikini socket" />
 
             <p>The lateral trim on the amputated side (c) is cut low for comfort - the strap now serving the purpose that until now the high lateral trim had been doing.</p>
 
@@ -48,8 +52,10 @@ function Prosthetics() {
 
             <p>The reduced trimlines allow release of perspiration, improving the user's ability to regulate temperate, and provides a very lightweight socket.</p>
 
-            <img src="/images/prosthetics-bikini-socket-photos.png" alt="Bikini socket" />
+            <img src="/images/prosthetics-bikini-socket-photos.png" class="center-image" alt="Bikini socket" />
+            </section>
 
+            <section>
             <h3>Outcomes</h3>
 
             <p>To date we have fitted eleven bikini sockets to five hip disarticulation and six hemi-pelvectomy amputees.</p>
@@ -59,7 +65,9 @@ function Prosthetics() {
             <p>Nine patients continue to successfully wear the bikini socket.</p>
 
             <p>Two of the established amputees rejected the bikini socket, reporting that they felt more secure in their traditional type socket. (They are both hip disarticulation amputees)</p>
+            </section>
 
+            <section>
             <h3>Components</h3>
 
             <p>The standard limb built for these amputation levels consists of a single axis hip joint, a four bar knee and a SACH (solid ankle, cushion heel) type foot.</p>
@@ -77,7 +85,9 @@ function Prosthetics() {
             <p>Prevention of falls is just one aspect - reducing the chances of acute injuries - but effective stabilisation can also cut the knock-on medical problems often experienced by amputees with conventional prosthesis and joints, such as lower-back pain, arthritis and joint replacements.</p>
 
             <p>The prescription of a foot with a hydraulic ankle further improves gait, again, these feet allow for a longer period of double support while also allowing a more natural and symmetrical gait pattern.</p>
+            </section>
 
+            <section>
             <h3>Case Study</h3>
 
             <p>This 34 year old female was first seen by the multidisciplinary team (consultant, physiotherapist, and prosthetist) in October 2014.</p>
@@ -209,9 +219,12 @@ function Prosthetics() {
             <p>She also reported feeling more confident on her prosthesis and was using it for up to 8 hours a day. She was using one walking stick outdoors and could manage without it indoors.</p>
 
             <p>She continues to use this prosthesis successfully.</p>
+            </section>
 
+            <section>
             <h3>Conclusion</h3>
             <p>Patients with hip disarticulation and hemi-pelvectomy levels of amputation are challenging to rehabilitate, both for the patients and the clinicians. However, excellent outcomes can be attained with careful consideration of socket styles and components and good physiotherapy input.</p>
+            </section>
         </>
     );
 }

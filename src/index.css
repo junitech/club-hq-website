@@ -100,7 +100,7 @@ img.align-right {
 }
 
 section {
-  padding: 40px;
+  padding: 10px;
   clear: both;
 }
 
@@ -169,6 +169,10 @@ h3 {
 
 section h2 {
   clear: none;
+}
+
+span{
+    color: red;
 }
 
 .intro {
