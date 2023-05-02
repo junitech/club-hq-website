@@ -33,15 +33,29 @@ code {
 }
 
 .quote {
-  margin: 0;
-  background: #eee;
+  background: #04585E;
+  color: lightgray;
   padding: 1em;
+  border: 1px solid green;
   border-radius: 1em;
+  width: 50%;
+  font-size: 1.3em;
+  line-height: 1.25em;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+  margin: 0 auto;
+  margin-bottom: 40px;
 }
 
 .quote figcaption,
 .quote blockquote {
-  margin: 1em;
+  color: white;
+  font-style: italic;
+}
+
+cite {
+  font-style: normal;
+  font-size: 0.8em;
+
 }
 
 .center-image 
@@ -151,4 +165,12 @@ h3 {
 
 section h2 {
   clear: none;
+}
+
+.intro {
+  font-size: 1.2em;
+  line-height: 1.2em;
+  text-align: center;
+  margin: 0 auto;
+  padding: 15px;
 }

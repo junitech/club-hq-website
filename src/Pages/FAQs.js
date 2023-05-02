@@ -24,7 +24,7 @@ function FAQs() {
             <p>If wheelchair users are allowed on board, there will be special arrangements for them.</p>
 
             <h2>How do I get onto a train or an aeroplane?</h2>
-            <p>Special assistance, which should be requested in advance if possible, should always be available. See the FAQ section on transport.</p>
+            <p>Special assistance, which should be requested in advance if possible, should always be available.</p>
         </>
     );
 }

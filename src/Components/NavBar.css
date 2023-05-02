@@ -1,6 +1,7 @@
 nav {
-  background-color: rgb(4, 88, 94);
-  margin: 5px;
+  background-color: #04585E;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 li.nav-item > a {

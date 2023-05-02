@@ -17,7 +17,6 @@ function Prosthetics() {
             <p>Until 2016, our Hip disarticulation/ hemipelvectomy sockets had been made primarily with flat seat for ischial/soft tissue bearing and suspension over iliac crests.</p>
 
             <img src="/images/prosthetics-sockets.png" alt="Sockets" />
-            Figure 1
 
             <p>We cast using a casting table, angled blocks for hip angles and ropes/chains for pulling in over iliac crests. This creates a 3-point force system (coronal plane) which stabilises the pelvis in the socket. Anterior-posterior control is achieved with good volume matching (hydro-static control) and a snug A-P dimension in the socket.</p>
 
@@ -34,7 +33,6 @@ function Prosthetics() {
             <p>The socket has anterior and posterior “wings” (a) which stabilise the pelvis front to back, and flexible iliac crest stabilisers (b) on either side to provide medio-lateral control and suspension of the prosthesis.</p>
 
             <img src="/images/prosthetics-bikini-socket-diagram.png" alt="Bikini socket" />
-            Figure 2.
 
             <p>The lateral trim on the amputated side (c) is cut low for comfort - the strap now serving the purpose that until now the high lateral trim had been doing.</p>
 
