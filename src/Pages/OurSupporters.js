@@ -64,9 +64,10 @@ function OurSupporters() {
             <section>
             <h2>Sidestix</h2>
             <img src="/images/sidestix-logo.png" class="center-image" alt="Sidestix"></img>
+
+            <p>SideStix forearm crutches enable mobility-challenged individuals to enjoy an active, healthy lifestyle by providing the highest quality and most innovative designs in assistive walking technology. An optional shock absorber, a wide range of tip attachments, and a limited lifetime warranty, allow you to go further and defy convention. Visit <a href="http://www.sidestix.com/">www.sidestix.com</a>.</p>
             <p>See the Secret Facebook Group for Club HQ discount code.</p>
             </section>
-
         </>
     );
 }
