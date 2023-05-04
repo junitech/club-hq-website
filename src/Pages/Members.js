@@ -78,7 +78,7 @@ function Members() {
             <img src="/images/roy-mcgee.jpg" class="member-photo align-left" alt="Roy McGee" />
             <h2>Roy McGee, Fenstanton, Cambridgeshire</h2>
             <p>I had a hind quarter amputation in 1986 and after a few weeks convalescence, returned to my job in the leisure industry and continued until retirement in 2007.</p>
-            <p>I spent the early part of retirement narrow boating and looking after my allotment. In recent years I?ve discovered the joys of hand cycling and ride when I can. I am also a parish councillor and as such am involved in many village activities.</p>
+            <p>I spent the early part of retirement narrow boating and looking after my allotment. In recent years I've discovered the joys of hand cycling and ride when I can. I am also a parish councillor and as such am involved in many village activities.</p>
             </section>
 
             <section>
