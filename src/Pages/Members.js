@@ -57,7 +57,7 @@ function Members() {
             <p>But 9 years ago I started to get better. I then looked after my Mum who had a stroke, but she died last January at 94 years old.</p>
             <p>I enjoy gardening, and cooking, I have a toy poodle called Robbie who follows me everywhere and sits where my left leg was. I believe he has helped me to get better.  I enjoy wheelchair tennis and swimming and have found that exercise helps me.  I enjoy taking Robbie for a walk, driving my scooter around Kenilworth, going to different parks and shopping in town.</p>
             <p>I regularly volunteer at Myton Hospice and you see people there who are worse off than me.</p>
-            <p>Staying positive and believing I was going to beat cancer really helped me with the support of good friends.  There is alway a way around a problem.  At the beginning I was nervous of steps as I had a few falls, but you become more confident as time goes by.</p>
+            <p>Staying positive and believing I was going to beat cancer really helped me with the support of good friends.  There is always a way around a problem.  At the beginning I was nervous of steps as I had a few falls, but you become more confident as time goes by.</p>
             </section>
 
             <section>
