@@ -113,7 +113,7 @@ function Members() {
             <p>I am a 41 year old husband and father of one. I am based in Birmingham and work for a telecommunications company within their software team as a DevOps engineer (don't ask, the answer is quite long and boring!).</p>
             <p>My Sarcoma was discovered in August 2021 after 8 months of severe sciatica symptoms which eventually lead to a trip to A&E. I spent 2 weeks in the Queen Elizabeth hospital before being transferred to The Royal Orthopaedic for further investigation.</p>
             <p>My hind quarter amputation was carried out at The Royal Orthopaedic in October 2021 and I spent 3 weeks there during the pandemic which was very difficult. Recovery was pretty swift considering the severity of the procedure. Radiotherapy followed in early 2022.</p>
-            <p>Unfortunately, the cancer re-appeared on scans of my lungs in May 2022. I then went on to have chemotherapy (doxyrubicin) at the end of 2022 and began undegoing additional treatment with the Care Oncology Clinic.</p>
+            <p>Unfortunately, the cancer re-appeared on scans of my lungs in May 2022. I then went on to have chemotherapy (doxyrubicin) at the end of 2022 and began undergoing additional treatment with the Care Oncology Clinic.</p>
             <p>I have recently begun driving again which has been a great step forward in giving me back some of my freedom. I am a crutch user and opted out from having a prosthesis.</p>
             </section>
 
