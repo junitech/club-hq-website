@@ -12,7 +12,7 @@ function Members() {
 
             <section>
             <img src="/images/ray-aspinwall.jpg" class="member-photo align-right" alt="Ray Aspinwall" />
-            <h2>Ray Aspinwall, Forby, Merseyside</h2>
+            <h2>Ray Aspinwall, Formby, Merseyside</h2>
             <p>It's 13 years since I had an operation at Birmingham Orthopaedic Hospital to remove my hip and leg due to a diagnosis of Chondrosarcoma. After many years of long distance walking, playing golf and attending a gym I was worried that exercise would be severely restricted. I do have a prosthetic leg but I only use it for weddings and even then prefer to ditch it for dancing. I walk with crutches. I regularly walk 6-8 miles including in the Lake District and with a walking group.  I also keep fit by swimming up to half a mile twice a week.</p>
             </section>
 
