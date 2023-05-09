@@ -42,7 +42,7 @@ function Prosthetics() {
 
             <p>The rigid "belt" on the contralateral side which secure the amputee in the socket and suspend over the contralateral iliac crest has also been replaced with a flexible strap. This allows the rigid socket to end a little past the body’s midline.</p>
 
-            <p>The anterio-posterior dimension of the socket is set by the prosthetist, and does not change if the user tightens or loosens the socket. This maintains an intimate skeletal fit, reduced movement of the pelvis within the socket, and so greater control and responsiveness of the prosthesis.</p>
+            <p>The anterior-posterior dimension of the socket is set by the prosthetist, and does not change if the user tightens or loosens the socket. This maintains an intimate skeletal fit, reduced movement of the pelvis within the socket, and so greater control and responsiveness of the prosthesis.</p>
 
             <p>Flexible padded iliac crest stabilisers will conform to the changing shape of the users' body during different gait and when seated, increasing comfort in the socket.</p>
 

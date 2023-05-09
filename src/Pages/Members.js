@@ -19,7 +19,7 @@ function Members() {
             <section>
             <img src="/images/joan-clayton.jpg" class="member-photo align-left" alt="Joan Clayton" />
             <h2>Joan Clayton from Sale, Cheshire</h2>
-            <p>I am a retired Estate Agent in our local village. I am married to Dave and have two children and two grandchildren. I had a Sarcoma back in 1961 as a child, then had my amputation in 1965 when I was sixteen. I have travelled far a wide over the years and I still like my holidays. I love driving, going to the theatre and cinema and chatting with friends and family. I try to enjoy life to the full and am grateful for the love and support from myhusband and kids over the last 50 years.</p>
+            <p>I am a retired Estate Agent in our local village. I am married to Dave and have two children and two grandchildren. I had a Sarcoma back in 1961 as a child, then had my amputation in 1965 when I was sixteen. I have travelled far a wide over the years and I still like my holidays. I love driving, going to the theatre and cinema and chatting with friends and family. I try to enjoy life to the full and am grateful for the love and support from my husband and kids over the last 50 years.</p>
             </section>
 
             <section>

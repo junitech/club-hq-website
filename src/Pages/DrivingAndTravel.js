@@ -37,7 +37,7 @@ function DrivingAndTravel() {
             <ul>
                 <li>higher rate mobility component of Disability Living Allowance (DLA)</li>
                 <li>enhanced rate mobility component of Personal Independence Payment (PIP)</li>
-                <li>War Pensioners' Mobility SupplementArmed Forces Independence Payment</li>
+                <li>War Pensioners' Mobility Supplement Armed Forces Independence Payment</li>
             </ul>
             <p>The vehicle must be registered in the disabled person's name or their nominated driver's name.</p>
             <p>It must only be used for the disabled person's personal needs. It cannot be used by the nominated driver for their own personal use.</p>
@@ -65,11 +65,11 @@ function DrivingAndTravel() {
 
             <section>
             <h3>Mobility scooters and powered wheelchairs</h3>
-            <p>You do not need a licence to drive a mobility scooter or powered wheelchair, but you may have to register it. Only certain types can be driven on the road. The law calls these types of vehicles "invalid carriages'.</p>
+            <p>You do not need a licence to drive a mobility scooter or powered wheelchair, but you may have to register it. Only certain types can be driven on the road. The law calls these types of vehicles "invalid carriages".</p>
             <p>Mobility scooters and powered wheelchairs come in 2 categories:</p>
             <ul>
-                <li>"class 2 invalid carriages' - these cannot be used on the road (except where there is not a pavement) and have a maximum speed of 4mph</li>
-                <li>"class 3 invalid carriages' - these can be used on the road, and have a maximum speed of 4mph off the road, and 8mph on the road</li>
+                <li>"class 2 invalid carriages" - these cannot be used on the road (except where there is not a pavement) and have a maximum speed of 4mph</li>
+                <li>"class 3 invalid carriages" - these can be used on the road, and have a maximum speed of 4mph off the road, and 8mph on the road</li>
             </ul>
             <p>You do not need to register a class 2 invalid carriage. You must register class 3 invalid carriages.</p>
             <p>The Government have <a target="_blank" rel="noreferrer" href="https://www.gov.uk/mobility-scooters-and-powered-wheelchairs-rules">published rules</a> around the use of mobility scooters and powered wheelchairs.</p>
@@ -81,9 +81,9 @@ function DrivingAndTravel() {
             <img src="/images/blue-badge.png" class="center-image" alt="Blue badge" />
             <p>You are not, as hind quarter amputee (HQA), automatically entitled to a Blue Badge but you should encounter no difficulty in being awarded one, as you are eligible on the basis that "you cannot walk at all." You can <a href="https://www.gov.uk/apply-blue-badge">confirm that you may be eligible</a> and <a href="https://www.gov.uk/apply-blue-badge">apply to your local authority</a> by providing the appropriate documentation.</p>
             <p>Hints on completing the application form for a Blue Badge:</p>
-            <em>A HQA is an 'enduring and substantial disability that means you are unable to walk at al during the course of a journey. The Blue Badge scheme local authority guidance (England) (Updated 30 August 2019), para. 4.42, states that, in assessing applicants, “Being unable to walk means that they cannot take a single step. The applicant needs to show that, because of their enduring and substantial disability, they cannot walk during the course of a journey. Walking involves always having one foot on the ground. And in para. 4.43: "If the applicant's only way of getting about is to swing through two elbow crutches, then they will be considered unable to walk (provided it is due to an enduring and substantial disability…'.</em>
+            <em>A HQA is an 'enduring and substantial disability that means you are unable to walk at all during the course of a journey. The Blue Badge scheme local authority guidance (England) (Updated 30 August 2019), para. 4.42, states that, in assessing applicants, “Being unable to walk means that they cannot take a single step. The applicant needs to show that, because of their enduring and substantial disability, they cannot walk during the course of a journey. Walking involves always having one foot on the ground. And in para. 4.43: "If the applicant's only way of getting about is to swing through two elbow crutches, then they will be considered unable to walk (provided it is due to an enduring and substantial disability…'.</em>
             <p>A Blue badge costs up to £10 in England and £20 in Scotland. It's free in Wales. It normally runs for three years before needing renewal. Your council will determine your eligibility. If they decide that you are not eligible and you think that they did not take account of all the facts, you can ask them to reconsider your application.</p>
-            <p>Blue badges allow people to benefit from certain parking concessions. These can vary between local authorities, though frequently unlimited parking is allowed in council car parks, for a reasonable time if you are not causing an obstruction on a single yellow line, and free on a pay and display bay if you display a valid Blue Badge. Some local authorities require additional proof of a disability before allowing free parking - always check. The major variations are in the London boroughs of Chelsea and Kensington, Westminster and around the British Library where you can only park for free for 3-4 hours in designated disabled bays. eters in Chelsea give an additional free one hour when paying for a parking bay.</p>
+            <p>Blue badges allow people to benefit from certain parking concessions. These can vary between local authorities, though frequently unlimited parking is allowed in council car parks, for a reasonable time if you are not causing an obstruction on a single yellow line, and free on a pay and display bay if you display a valid Blue Badge. Some local authorities require additional proof of a disability before allowing free parking - always check. The major variations are in the London boroughs of Chelsea and Kensington, Westminster and around the British Library where you can only park for free for 3-4 hours in designated disabled bays. Meters in Chelsea give an additional free one hour when paying for a parking bay.</p>
             <p>In addition, people who have a blue badge are often able to automatically access other concessions. For example, Blue Badge holders are able to gain exemption from the London Congestion Charge by registering with Transport for London in advance. There are also special car benefit rule adjustments for Blue Badge holders in employment which could mean they pay less tax.</p>
             <p>There is a different way to apply in <a target="_blank" rel="noreferrer" href="https://www.nidirect.gov.uk/articles/rights-and-responsibilities-blue-badge-holders">Northern Ireland</a>.</p>
             </section>

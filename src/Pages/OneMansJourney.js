@@ -50,9 +50,9 @@ function OneMansJourney() {
 
             <p>You may be taken home by ambulance on a stretcher and carried into your house and that is the start of the next stage in your recovery.</p>
 
-            <p>This is where the physios come in. Physios come in two guises. OT or Occupational Therapists who are concerned with how you will cope at home and Physiotherapists who are interested in making you mobile and restoring your muscle strength. Eight months on and I go up and down anything, walk half a mile,go on trains and buses and aeroplanes. The only thing I took a while to pluck up the courage to do was the underground escalator because you come off at speed and I normally travel alone.</p>
+            <p>This is where the physios come in. Physios come in two guises. OT or Occupational Therapists who are concerned with how you will cope at home and Physiotherapists who are interested in making you mobile and restoring your muscle strength. Eight months on and I go up and down anything, walk half a mile, go on trains and buses and aeroplanes. The only thing I took a while to pluck up the courage to do was the underground escalator because you come off at speed and I normally travel alone.</p>
 
-            <p>You will become incredibly good on crutches. , butyour hands take a terrible bashing. Standard issue crutches can damage the nerves in the hands of long term users so I moved onto “permanent user fixed length crutches with comfy handles”(That's what they are called) and my hands have recovered from the numb fingers that I had experienced. Take care of your handsthey require maintenance. You should use a hand cream that is not in any way greasy. Eating crisps is the worst for getting grease on your handles.</p>
+            <p>You will become incredibly good on crutches, but your hands take a terrible bashing. Standard issue crutches can damage the nerves in the hands of long term users so I moved onto “permanent user fixed length crutches with comfy handles”(That's what they are called) and my hands have recovered from the numb fingers that I had experienced. Take care of your hands, they require maintenance. You should use a hand cream that is not in any way greasy. Eating crisps is the worst for getting grease on your handles.</p>
 
             <p>There are a plethora of different crutches but after 5 years on NHS crutches and breaking about 3 pairs a year, I have spent the money and bought a pair of Sidestix from Canada. They come with Typhoon ferrules that I have changed for Flexyfoot ferrules and they have suspension which is a boon for the shoulders.</p>
 
@@ -60,11 +60,11 @@ function OneMansJourney() {
 
             <p>Let's go back to the OT. He or she is interested in making your transition from hospital to home as easy as possible. As you only have half a bottom, you have certain problems to address. One is trying not to fall into the loo!</p>
 
-            <p>What you will ideally require when you go home isan upstairs and downstairs commode as it will initially be impossible to sit down onto a normal loo seat. You will also need a wheelchair to cover distances. The OT will arrange to have this delivered and my advice is to use it as little as possible. It is really easy to succumb to using the wheelchair but I put it away in a cupboard after three weeks at home and it has never come out since. Personally I feel it classifies me as an invalid and I am doing everything possible to return to a normal life. Those are the essentials that you need and you will then be taken over by the local OT. I would suggest that you ask for a spare pair of crutches (if one breaks you are scuppered), a shower chair, a chair air cushion(made by Repose) and a bed air mattress. They will also give you a special cushion made up of lots of tiny airbags. It may work for you, it didn't for me.</p>
+            <p>What you will ideally require when you go home is an upstairs and downstairs commode as it will initially be impossible to sit down onto a normal loo seat. You will also need a wheelchair to cover distances. The OT will arrange to have this delivered and my advice is to use it as little as possible. It is really easy to succumb to using the wheelchair but I put it away in a cupboard after three weeks at home and it has never come out since. Personally I feel it classifies me as an invalid and I am doing everything possible to return to a normal life. Those are the essentials that you need and you will then be taken over by the local OT. I would suggest that you ask for a spare pair of crutches (if one breaks you are scuppered), a shower chair, a chair air cushion(made by Repose) and a bed air mattress. They will also give you a special cushion made up of lots of tiny airbags. It may work for you, it didn't for me.</p>
 
             <p>So now we are home with masses of pills to be taken through the day, a pair of crutches and a wheelchair, possibly still a catheter, a wound that hasn't healed and to a home that wasn't designed for wheelchairs and crutches. And probably with a load of apprehension as well.</p>
 
-            <p>I have already said that diet is enormously helpful to recovery and I would mention that eating a lot of beetroot is very good for cleansing the blood and you need lots of protein for healing. You should eat three proper meals a day and sleep as much as you need. Avoid junk food, pizza, bread,cake and sugar. It has recently been established that diet is very important in fighting cancer. Don't push yourself at this early stage as it will set you back. Drink plenty of water and I would recommend that you stay off alcohol. It can badly affect your balance which is not good at this stage.!</p>
+            <p>I have already said that diet is enormously helpful to recovery and I would mention that eating a lot of beetroot is very good for cleansing the blood and you need lots of protein for healing. You should eat three proper meals a day and sleep as much as you need. Avoid junk food, pizza, bread, cake and sugar. It has recently been established that diet is very important in fighting cancer. Don't push yourself at this early stage as it will set you back. Drink plenty of water and I would recommend that you stay off alcohol. It can badly affect your balance which is not good at this stage.!</p>
 
             <p>Now that you are home you will find that the hospital has arranged for the District Nurse to come every day to change your dressings and a physio will come probably twice a week to improve your condition. In my case I could not lift my good leg off the bed and nor could I sit up. I was pretty fit when I went in but a month in bed will destroy your physical condition. You lose something extraordinary like 3lbs of skeletal muscle in the first ten days. I think it slows after that or there wouldn't be much left of you!</p>
 
@@ -84,7 +84,7 @@ function OneMansJourney() {
 
             <p>Several of the women members of Club HQ who had their amputation in their youth have worn a prosthetic every day of their lives and also had children. Body dysmorphia is definitely worse for women and so a prosthetic is a great help.</p>
 
-            <p>That's my basic story and I will now cover a number of, what I think, ar, important points.</p>
+            <p>That's my basic story and I will now cover a number of, what I think, are important points.</p>
 
             <h2>Crutches</h2>
 
@@ -98,7 +98,7 @@ function OneMansJourney() {
 
             <h2>Prosthetics</h2>
 
-            <p>Don't rush. Your stump needs to be very well healed before you even consider a leDon't even consider going private. Your leg with a computerised knee and special hip is probably £20,000 to £40,000 and maintenance is horrendous. If you get a leg, make sure you use it all the time. That way you get upgraded to the best versions.</p>
+            <p>Don't rush. Your stump needs to be very well healed before you even consider a leg. Don't even consider going private. Your leg with a computerised knee and special hip is probably £20,000 to £40,000 and maintenance is horrendous. If you get a leg, make sure you use it all the time. That way you get upgraded to the best versions.</p>
 
             <h2>Pills</h2>
 
