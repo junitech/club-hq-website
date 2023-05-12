@@ -51,7 +51,7 @@ function OurSupporters() {
             <section>
             <h2>The Bone Cancer Research Trust</h2> 
             <img src="/images/bone-cancer-research-trust-banner.jpg" class="center-image" alt="Bone Cancer Research Trust"></img>
-            <p>The Bone Cancer Research Trust is the leading charity dedicated to ﬁghting primary bone cancer and bone tumours. Our mission is to save lives and improve outcomes for people affected by primary bone cancer through research, information, awareness and support.</p>
+            <p>The Bone Cancer Research Trust is the leading charity dedicated to ﬁghting primary bone cancer and bone tumours. Our mission is to save lives and improve outcomes for people affected by primary bone cancer through research, information, awareness and support. We also offer financial support to anyone diagnosed with a primary bone cancer – they can apply by completing the <a href="https://www.bcrt.org.uk/support/financial-assistance-grants/" target="_blank" rel="noreferrer">form on our website</a>.</p>
             <p>The Bone Cancer Research Trust funds pioneering research into all forms of primary bone cancer and ensures that accurate information and support are available for patients of all ages whilst raising national and international awareness of this devastating disease. To find out more about the charity please visit bcrt.org.uk or for any help or support contact our Support & Information Service on 0800 111 4855/support@bcrt.org.uk</p>
             </section>
 
