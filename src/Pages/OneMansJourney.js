@@ -10,7 +10,7 @@ function OneMansJourney() {
 
             <p>My journey since that fateful day has been full of tears of frustration and disappointment but also full of tears of laughter from the ridiculous situations in which you find yourself.</p>
 
-            <p>I lost my trousers walking down the High Street because I you only have one hip to hold them up. It's tricky to pull up your trousers in the middle of a crowded pavement when you are new to crutches! It happened again in the chemist!</p>
+            <p>I lost my trousers walking down the High Street because you only have one hip to hold them up. It's tricky to pull up your trousers in the middle of a crowded pavement when you are new to crutches! It happened again in the chemist!</p>
 
             <p>I was undergoing stairs training with two physiotherapists and all three of us ended up upside down, hanging desperately on to the handrail and laughing so much it was a while before we got our act together.</p>
 
