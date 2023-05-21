@@ -14,11 +14,10 @@ function OurSupporters() {
 
                 <p>Please contact the Sarcoma UK support line with any questions, or just to talk.</p>
 
-                <p>Contact details:
+                <p>Contact details:<br/>
 
-                    Sarcoma UK Support Line:
-                    Freephone: 0808 801 401 (open Monday -Friday, 10am - 3pm)
-                    Email: supportline@sarcoma.org.uk
+                    Sarcoma UK Support Line: Freephone 0808 801 401 (open Monday -Friday, 10am - 3pm)<br/>
+                    Email: <a href="mailto:supportline@sarcoma.org.uk">supportline@sarcoma.org.uk</a><br/>
                     Text: 07860 058 830
                 </p>
             </section>
