@@ -2,7 +2,9 @@
 function DrivingAndTravel() {
     return (
         <>
-        <section>
+            <div class="driving-and-travel-page">
+                
+            <section>
             <h1>Driving and travel</h1>
             <p>Author Ian Coldicott is a hindquarter amputee and co-Founder of Club HQ</p>
             </section>
@@ -51,7 +53,7 @@ function DrivingAndTravel() {
             
             <section>
             <h3>Motability</h3>
-            <img src="/images/motability.jpg" class="center-image" alt="Motability logo" />
+            <img src="/images/motability.jpg" class="right-float-image" alt="Motability logo" />
             <p>The <a href="https://www.motability.co.uk/about/how-the-scheme-works/">Motability Scheme</a> enables anyone in receipt of a higher rate mobility allowance (such as the Enhanced Rate of the Mobility Component of Personal Independence Payment or the Higher Rate Mobility Component of Disability Living Allowance) to use their mobility allowance to lease a car, scooter, powered wheelchair or Wheelchair Accessible Vehicle.</p>
             <p>You exchange all, or part of your mobility allowance to lease the vehicle of your choice. You choose the vehicle you want at a price that works for you, and payments are deducted from your higher rate mobility allowance every four weeks and then paid directly to Motability by the DWP.</p>
             <p>The standard lease is over three years, or five years if you are leasing a Wheelchair Accessible Vehicle, Motability take care of running costs such as insurance for up to three named drivers (this doesn't have to be you), servicing, maintenance, breakdown cover, tyre repair and replacement and windscreen repairs.</p>
@@ -87,6 +89,8 @@ function DrivingAndTravel() {
             <p>In addition, people who have a blue badge are often able to automatically access other concessions. For example, Blue Badge holders are able to gain exemption from the London Congestion Charge by registering with Transport for London in advance. There are also special car benefit rule adjustments for Blue Badge holders in employment which could mean they pay less tax.</p>
             <p>There is a different way to apply in <a target="_blank" rel="noreferrer" href="https://www.nidirect.gov.uk/articles/rights-and-responsibilities-blue-badge-holders">Northern Ireland</a>.</p>
             </section>
+
+            </div>        
         </>
     );
 }

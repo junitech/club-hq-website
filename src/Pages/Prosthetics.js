@@ -18,7 +18,7 @@ function Prosthetics() {
 
             <p>Until 2016, our Hip disarticulation/ hemipelvectomy sockets had been made primarily with flat seat for ischial/soft tissue bearing and suspension over iliac crests.</p>
 
-            <img src="/images/prosthetics-sockets.png"class="center-image" alt="Sockets" />
+            <img src="/images/prosthetics-sockets.png" class="figure-image" alt="Sockets" />
 
             <p>We cast using a casting table, angled blocks for hip angles and ropes/chains for pulling in over iliac crests. This creates a 3-point force system (coronal plane) which stabilises the pelvis in the socket. Anterior-posterior control is achieved with good volume matching (hydro-static control) and a snug A-P dimension in the socket.</p>
 
@@ -36,7 +36,7 @@ function Prosthetics() {
 
             <p>The socket has anterior and posterior “wings” (a) which stabilise the pelvis front to back, and flexible iliac crest stabilisers (b) on either side to provide medio-lateral control and suspension of the prosthesis.</p>
 
-            <img src="/images/prosthetics-bikini-socket-diagram.png" class="center-image" alt="Bikini socket" />
+            <img src="/images/prosthetics-bikini-socket-diagram.png" class="figure-image" alt="Bikini socket" />
 
             <p>The lateral trim on the amputated side (c) is cut low for comfort - the strap now serving the purpose that until now the high lateral trim had been doing.</p>
 
@@ -52,7 +52,7 @@ function Prosthetics() {
 
             <p>The reduced trimlines allow release of perspiration, improving the user's ability to regulate temperate, and provides a very lightweight socket.</p>
 
-            <img src="/images/prosthetics-bikini-socket-photos.png" class="center-image" alt="Bikini socket" />
+            <img src="/images/prosthetics-bikini-socket-photos.png" class="figure-image" alt="Bikini socket" />
             </section>
 
             <section>
@@ -121,7 +121,7 @@ function Prosthetics() {
 
             <p>We put her forward for MPK pre- assessment in April 2017 and she was accepted onto a four week trial, below are her outcome measures using initially the original prescription then after 4 weeks trial on MPK/hydraulic ankle.( Her hip joint remained unchanged)</p>
 
-            <table>
+            <table class="report-table">
             <caption></caption>                
                 <thead>
                     <tr>

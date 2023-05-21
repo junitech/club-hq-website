@@ -72,23 +72,25 @@ cite {
   max-width: 45%;
 }
 
-.member-photo
+.left-float-image
 {
-  margin: 20px;
+  float: left;
+}
+
+.right-float-image
+{
+  float: right;
+}
+
+.figure-image {
   display: block;
+  margin: 20px;
   margin-left: auto;
   margin-right: auto;
   max-width: 45%;
-  border: 5px solid white;
+  border: 5px solid #555;
   border-radius: 1%;
   box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
-}
-
-img {
-    border: 5px solid #555;
-    border-radius: 1%;
-    margin: 10px;
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
 }
 
 img.align-left {
@@ -183,4 +185,84 @@ span{
   text-align: center;
   margin: 0 auto;
   padding: 15px;
+}
+
+section h6 {
+  text-align: center;
+  font-style: italic;
+  margin-bottom: 18px;
+}
+
+.box {
+  display: flex;
+  align-items:center;  
+}
+
+.box span {
+  color: black;
+  padding: 15px;
+}
+
+.member-photo
+{
+  margin: 20px;
+  border: 5px solid white;
+  border-radius: 1%;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+  max-width: 35%;
+}
+
+.supporter-logo 
+{
+  background-color: white;
+  color: black;
+  padding: 5px;
+  padding-top: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5px;
+}
+
+.supporter-logo img
+{
+  max-width: 45%;
+}
+
+.supporter-logo div 
+{
+  text-align: center;
+  font-size: 1.4em;
+  line-height: 1.4em;
+  font-weight: bold;
+}
+
+.report-table 
+{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mental-health-page img
+{
+  display: block;
+  margin: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 45%;
+  border: 5px solid #555;
+  border-radius: 1%;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+.driving-and-travel-page img
+{
+  display: block;
+  margin: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 45%;
+  border: 5px solid #555;
+  border-radius: 1%;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
 }
