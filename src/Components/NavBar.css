@@ -11,3 +11,14 @@ li.nav-item > a {
 li.nav-item > a:hover {
   color: white;
 }
+
+button.navbar-toggler {
+  padding: 0px;
+  margin: 0px;
+}
+
+.navbar-toggler span {
+  color: white;
+  font-size: 0.9em;
+  font-weight: bold;
+}
